@@ -5,6 +5,8 @@ Copyright 2017 1thrasher, llc. All rights reserved.
 This repository contains the text for the Smallgroups.church website. If you (or your church) is interested in translating this into your language, please follow the instructions below.
 
 ## Instructions
+#### Watch the 6-minute instructional video here: [https://vimeo.com/125070526](https://vimeo.com/125070526)
+
 1. Create a [github.com](https://github.com/join) account
    - Complete account information in Step 1.
    - Select `Unlimited public repositories for free.` in Step 2.
