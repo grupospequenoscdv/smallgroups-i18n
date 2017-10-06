@@ -1,33 +1,33 @@
 {
-  "YES": “Sí”,
+  "YES": "Sí",
   "NO": "No",
-  "CANCEL": "Cancela”,
-  "SUBMIT": “Envía”,
-  "ENABLED": “Activa”,
-  "DISABLED": "Desactiva”,
-  "AND": “y”,
+  "CANCEL": "Cancela",
+  "SUBMIT": "Envía",
+  "ENABLED": "Activa",
+  "DISABLED": "Desactiva",
+  "AND": "y",
   "OR": "o",
-  "AT": “en”,
-  "ARE-YOU-SURE": “¿Estás Seguro?”,
-  "SWIPE-RIGHT": “Desliza a la derecha“,
-  "VIEW": "Ver”,
-  "CLOSE": “Cerrar”,
-  "SEND-MESSAGE": “Enviar Mensaje“,
-  "DOWNLOAD": "Descargar”,
-  "EDIT": “Corregir”,
-  "DELETE": “Borrar”,
-  "UPDATE": “Actualizar”,
-  "REMOVE": “Quitar”,
+  "AT": "en",
+  "ARE-YOU-SURE": "¿Estás Seguro?",
+  "SWIPE-RIGHT": "Desliza a la derecha",
+  "VIEW": "Ver",
+  "CLOSE": "Cerrar",
+  "SEND-MESSAGE": "Enviar Mensaje",
+  "DOWNLOAD": "Descargar",
+  "EDIT": "Corregir",
+  "DELETE": "Borrar",
+  "UPDATE": "Actualizar",
+  "REMOVE": "Quitar",
 
-  "NAME": “Nombre”,
-  "NAME-PLACEHOLDER": “Nombre Completo“,
-  "EMAIL": “Correo”,
-  "EMAIL-PLACEHOLDER": “Ingresa tu Correo“,
-  "EMAIL-OPT-PLACEHOLDER": “Correo Opcional“,
-  "EMAIL-LONG": “Correo”,
-  "PHONE": “Celular”,
-  "PHONE-OPT-PLACEHOLDER": “Teléfono Opcional“,
-  "STATUS": “Estado”,
+  "NAME": "Nombre",
+  "NAME-PLACEHOLDER": "Nombre Completo",
+  "EMAIL": "Correo",
+  "EMAIL-PLACEHOLDER": "Ingresa tu Correo",
+  "EMAIL-OPT-PLACEHOLDER": "Correo Opcional",
+  "EMAIL-LONG": "Correo",
+  "PHONE": "Celular",
+  "PHONE-OPT-PLACEHOLDER": "Teléfono Opcional",
+  "STATUS": "Estado",
 
   "INTERNET-ERROR": "Al parecer hay un error. Por favor revisa tu conexión de internet e intenta de nuevo.",
 
@@ -557,18 +557,18 @@
             "ERROR": "Se ha producido un error al comprobar la dirección del directorio. Revisa tu conexión a Internet y vuelve a intentarlo."
           },
           "UPDATE": {
-            "VALID": "El perfil de tu iglesia ha sido actualizado“,
-            “ERROR”: “Se ha producido un error al actualizar tu perfil. Asegúrese de haber completado todos los campos del formulario, revisar tu conexión a Internet e intentarlo de nuevo."
+            "VALID": "El perfil de tu iglesia ha sido actualizado",
+            "ERROR": "Se ha producido un error al actualizar tu perfil. Asegúrese de haber completado todos los campos del formulario, revisar tu conexión a Internet e intentarlo de nuevo."
           },
           "CREATE": {
-            "VALID": "El perfil de tu iglesia ha sido creado.”,
+            "VALID": "El perfil de tu iglesia ha sido creado.",
             "ERROR": "Se ha producido un error al crear el perfil de tu iglesia. Asegúrese de haber completado todos los campos del formulario, revisar tu conexión a Internet e intentarlo de nuevo."
           }
         }
       },
       "ADMINS": {
-        "TITLE": "Administradores de grupos pequeños de la iglesia“,
-        “PROMPT”: “Agregue a los administradores de grupos pequeños de la iglesia a su cuenta y elimine las cuentas de administrador existentes.",
+        "TITLE": "Administradores de grupos pequeños de la iglesia",
+        "PROMPT": "Agregue a los administradores de grupos pequeños de la iglesia a su cuenta y elimine las cuentas de administrador existentes.",
         "FORM": {
           "PROMPT": "Ingrese la dirección de correo electrónico del usuario que desea agregar como administrador de la iglesia:",
           "EMAIL-PLACEHOLDER": "Ingresar Correo Electrónico",
@@ -583,16 +583,16 @@
         "REMOVE-PROMPT": "¿Estás seguro de que deseas eliminar a esta persona de la administración de la iglesia?",
         "SERVER": {
           "ADD": {
-            "SUCCESS": "El nuevo administrador ha sido agregado.”,
-            “ERROR”: “Ha habido un error al agregar al nuevo administrador. Por favor revisa tu conexión de Internet e intento de nuevo.”
+            "SUCCESS": "El nuevo administrador ha sido agregado.",
+            "ERROR": "Ha habido un error al agregar al nuevo administrador. Por favor revisa tu conexión de Internet e intento de nuevo."
           },
           "RESEND": {
             "SUCCESS": "Se ha reenviado una invitación al nuevo administrador.",
             "ERROR": "Se ha producido un error al volver a enviar tu invitación. Comprueba tu conexión a Internet y vuelve a intentarlo."
           },
           "REMOVE": {
-            "SUCCESS": "El administrador ha sido eliminado.”,
-            “ERROR”: “Se produjo un error al eliminar al administrador. Comprueba tu conexión a Internet y vuelve a intentarlo."
+            "SUCCESS": "El administrador ha sido eliminado.",
+            "ERROR": "Se produjo un error al eliminar al administrador. Comprueba tu conexión a Internet y vuelve a intentarlo."
           }
         }
       },
@@ -621,12 +621,12 @@
             "P1": "¡Lo que quieras! Utilízalo como un llamado a acción para que los potenciales nuevos líderes de grupos puedan crear grupos. Compartir información sobre próximos entrenamientos o fechas de lanzamiento de temporadas."
           },
           "END": {
-            "TITLE": "¿Qué pasa al final de la temporada?“,
-            “P1”: “Los grupos pequeños se archivarán automáticamente y se eliminarán del directorio público y se archivarán a la fecha que elija como la "Fecha de finalización del temporada". Le enviaremos un recordatorio para configurar la próxima temporada de grupos pequeños a medida que se acerque el final de la temporada actual ."
+            "TITLE": "¿Qué pasa al final de la temporada?",
+            "P1": "Los grupos pequeños se archivarán automáticamente y se eliminarán del directorio público y se archivarán a la fecha que elija como la "Fecha de finalización del temporada". Le enviaremos un recordatorio para configurar la próxima temporada de grupos pequeños a medida que se acerque el final de la temporada actual ."
           },
           "DELETE": {
-            "TITLE": "¿ debería eliminar los grupos anteriores?”,
-            “P1”: “¡No! Te animamos a que nunca elimine sus antiguos grupos, ya que se archivan automáticamente. Puedes usar la información de Temporadas/ Grupos anterior para referirte al crecimiento y ayudar a informar a las áreas de enfoque de grupos pequeños de tu iglesia. Con el tiempo, la eliminación de los grupos impacta tus métricas. "
+            "TITLE": "¿ debería eliminar los grupos anteriores?",
+            "P1": "¡No! Te animamos a que nunca elimine sus antiguos grupos, ya que se archivan automáticamente. Puedes usar la información de Temporadas/ Grupos anterior para referirte al crecimiento y ayudar a informar a las áreas de enfoque de grupos pequeños de tu iglesia. Con el tiempo, la eliminación de los grupos impacta tus métricas. "
           }
         },
         "MESSAGE": {
@@ -634,9 +634,9 @@
           "P1": "Utiliza este formulario para agregar un mensaje personalizado en tu directorio de grupos públicos.",
           "P2": "Por ejemplo, cuando entre temporadas este es un buen lugar para que los visitantes sepan cuándo comenzará la próxima temporada, así como para animarlos a considerar liderar un grupo.",
           "FORM": {
-            "SHOW": "¿Mostrar mensaje?”,
-            "TITLE": "Título“,
-            "MESSAGE": "Mensaje“
+            "SHOW": "¿Mostrar mensaje?",
+            "TITLE": "Título",
+            "MESSAGE": "Mensaje"
           },
           "SERVER": {
             "SUCCESS": "Su mensaje en el directorio se actualizó correctamente.",
@@ -644,41 +644,41 @@
           }
         },
         "CURRENT": {
-          "TITLE": "Temporadas actuales“,
-          “PUBLIC-DATE": "Fecha de inicio:”,
-          "END-DATE": "Fecha de fin:”,
-          "ONGOING": "Continuará?”,
-          "REMOVE": "Eliminar“,
-          "REMOVE-SEMESTER-PROMPT": "Estás intentando eliminar esta temporada. Si hay grupos aún asociados, se convertirán en \ "perdidos \” y, por lo tanto, deben ser reasignados ahora. (Ve al enlace "Grupos pequeños" de arriba, cambie a esta temporada, y asegúrese de que no haya grupos vinculados.) ¡Esto no se puede deshacer! "!",
+          "TITLE": "Temporadas actuales",
+          "PUBLIC-DATE": "Fecha de inicio:",
+          "END-DATE": "Fecha de fin:",
+          "ONGOING": "Continuará?",
+          "REMOVE": "Eliminar",
+          "REMOVE-SEMESTER-PROMPT": "Estás intentando eliminar esta temporada. Si hay grupos aún asociados, se convertirán en \ "perdidos \" y, por lo tanto, deben ser reasignados ahora. (Ve al enlace "Grupos pequeños" de arriba, cambie a esta temporada, y asegúrese de que no haya grupos vinculados.) ¡Esto no se puede deshacer! "!",
           "SERVER": {
             "REMOVE": {
-              "SUCCESS": "La temporada ha sido eliminada“,
-              “ERROR”: “Se produjo un error al eliminar esta temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
+              "SUCCESS": "La temporada ha sido eliminada",
+              "ERROR": "Se produjo un error al eliminar esta temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
             },
             "UPDATE": {
-              "SUCCESS": "La temporada ha sido actualizada“,
-              “ERROR”: “Hubo un error al actualizar esta temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
+              "SUCCESS": "La temporada ha sido actualizada",
+              "ERROR": "Hubo un error al actualizar esta temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
             }
           }
         },
         "NEW": {
-          "TITLE": "Crear nueva temporada“,
-          “PROMPT”: "Agregar tu siguiente temporada de grupos pequeños“,
-          “NAME”: “Nombre de la temporada”,
-          “PUBLIC-DATE": "Inicio de la temporada“,
-          “END-DATE": "Fin de la temporada“,
-          “ONGOING": "¿Continuará esta temporada?”,
-          “CREATE-BTN": "Crear temporada“,
-          “SERVER": {
-            "SUCCESS": "Tu nueva temporada ha sido creada.”,
-            “ERROR”: “Se produjo un error al crear la nueva temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
+          "TITLE": "Crear nueva temporada",
+          "PROMPT": "Agregar tu siguiente temporada de grupos pequeños",
+          "NAME": "Nombre de la temporada",
+          "PUBLIC-DATE": "Inicio de la temporada",
+          "END-DATE": "Fin de la temporada",
+          "ONGOING": "¿Continuará esta temporada?",
+          "CREATE-BTN": "Crear temporada",
+          "SERVER": {
+            "SUCCESS": "Tu nueva temporada ha sido creada.",
+            "ERROR": "Se produjo un error al crear la nueva temporada. Comprueba tu conexión a Internet y vuelve a intentarlo."
           }
         }
       },
       "FILTERS": {
-        "TITLE": "Filtro de grupos“,
-        “PROMPT": "Las siguientes son listas de los filtros principales usados ​​para categorizar los grupos pequeños de tu iglesia. Estos filtros también se utilizan en el directorio público para ayudar a restringir la búsqueda de grupos.",
-        "LABEL": "Etiqueta del filtro“,
+        "TITLE": "Filtro de grupos",
+        "PROMPT": "Las siguientes son listas de los filtros principales usados ​​para categorizar los grupos pequeños de tu iglesia. Estos filtros también se utilizan en el directorio público para ayudar a restringir la búsqueda de grupos.",
+        "LABEL": "Etiqueta del filtro",
         "REMOVE-FILTER-PROMPT": "Estás intentando quitar este filtro. Si hay grupos aún asociados con él, se convertirán en \"perdidos\" y, por lo tanto, deben ser reasignados ahora. (Ve al enlace "Grupos pequeños" de arriba y asegúrate de que no hay grupos asociados con este filtro de grupo.) ¡Esto no se puede deshacer!",
         "WHO": {
           "TITLE": "Quién"
@@ -694,16 +694,16 @@
         },
         "SERVER": {
           "UPDATE": {
-            "SUCCESS": "Tus filtros han sido actualizados“,
-            “ERROR”: “Se ha producido un error al actualizar tu filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
+            "SUCCESS": "Tus filtros han sido actualizados",
+            "ERROR": "Se ha producido un error al actualizar tu filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
           },
           "REMOVE": {
-            "SUCCESS": "Tu filtro ha sido eliminado“,
-            “ERROR”: “Se ha producido un error al eliminar el filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
+            "SUCCESS": "Tu filtro ha sido eliminado",
+            "ERROR": "Se ha producido un error al eliminar el filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
           },
           "CREATE": {
-            "SUCCESS": "Tu filtro ha sido creado.”,
-            “ERROR”: "Se produjo un error al crear el filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
+            "SUCCESS": "Tu filtro ha sido creado.",
+            "ERROR": "Se produjo un error al crear el filtro. Comprueba tu conexión a Internet y vuelve a intentarlo."
           }
         }
       },
@@ -711,19 +711,19 @@
         "TITLE": "Exportar Data de la Iglesia",
         "PROMPT": "Descarga un archivo CSV para que puedas usarlo en Microsoft Excel, Google Docs.",
         "GROUPS": {
-          "TITLE": "Grupos Pequeños“,
-          “DESCRIPT": "Descarga toda la información de tus grupos pequeños.”,
+          "TITLE": "Grupos Pequeños",
+          "DESCRIPT": "Descarga toda la información de tus grupos pequeños.",
           "INC LES": "Incluye: temporadas, nombre del grupo, descripción, qué, quién, edad, si hay cuidado de niños, distrito, dirección, día y hora, y si es visible en el directorio. Además, información del contacto de líder como nombre completo, teléfono, y e-mail."
         },
         "LEADERS": {
-          "TITLE": "Líderes de grupo“,
-          “DESCRIPT": "Descargar toda la información actual sobre líderes de grupos.”,
-          “INCLUDES”: “ncluir: DNI de líder, nombre de líder, correo electrónico de líder, teléfono de líder, información adicional sobre líder en la iglesia.”
+          "TITLE": "Líderes de grupo",
+          "DESCRIPT": "Descargar toda la información actual sobre líderes de grupos.",
+          "INCLUDES": "ncluir: DNI de líder, nombre de líder, correo electrónico de líder, teléfono de líder, información adicional sobre líder en la iglesia."
         },
         "MEMBERS": {
-          "TITLE": "Participantes del grupo“,
-          “DESCRIPT”: "Descargar toda tu información actual sobre los participantes de grupos.”,
-          “INCLUDES”: “Incluir: nombre completo, teléfono, correo electrónico, información adicional sobre la persona."
+          "TITLE": "Participantes del grupo",
+          "DESCRIPT": "Descargar toda tu información actual sobre los participantes de grupos.",
+          "INCLUDES": "Incluir: nombre completo, teléfono, correo electrónico, información adicional sobre la persona."
         }
       }
     }
@@ -731,126 +731,126 @@
 
   "DIRECTORY": {
     "FILTERS": {
-      "GROUPS-FOUND": "Encontrar grupo“,
-      “DAY”: "Cualquier día“,
-      “WHO": "Quien“,
-      "WHAT": "Que“,
-      "AGE": "Cualquier edad”,
-      “CHILDCARE-NO": "Sin cuidado de niños“,
-      “CHILDCARE-YES": "Con cuidado de niños“,
-      “ZIP”: “Código postal“,
-      “ZIP-WITHIN": "Incluir código postal“
+      "GROUPS-FOUND": "Encontrar grupo",
+      "DAY": "Cualquier día",
+      "WHO": "Quien",
+      "WHAT": "Que",
+      "AGE": "Cualquier edad",
+      "CHILDCARE-NO": "Sin cuidado de niños",
+      "CHILDCARE-YES": "Con cuidado de niños",
+      "ZIP": "Código postal",
+      "ZIP-WITHIN": "Incluir código postal"
     },
-    “LIST”: {
-      "INTERESTED": "Estoy interesado“,
-      “CONTACT": "Contactar a líder“,
-      “CONTACT-TITLE": "Contratar a líder“,
-      “CONTACT-FROM": "De:",
-      "CONTACT-NAME-HELP": "Tu nombre es obligatorio“,
-      “CONTACT-EMAIL-HELP": "Tu correo electrónico es obligatorio“,
-      “CONTACT-MSG-TITLE”: “Mensaje:”,
-      "CONTACT-MSG": "Hola, tengo una pregunta sobre tu grupo pequeño, {{Nombre}}.”,
-      “CONTACT-MSG-HELP”: “Tu mensaje de contacto es obligatorio",
-      "CONTACT-SENT": "Tu mensaje de contacto ha sido enviado.”,
-      “JOIN-TITLE”: “Un paso más:“,
-      “JOIN-PROMPT": "Qué información quieres compartir con el miembro de {{nombre}}?”,
-      “JOIN-PRIVATE-EMAIL”: “Privado – Solo el líder del grupo verá tu correo electrónico“,
-      “JOIN-PRIVATE-PHONE”: “Privado – Solo el líder del grupo verá tu número telefónico“,
-      “JOIN-BTN”: “Únete a un grupo!”,
-      “JOIN-SENT": "Tu pedido de unirte a un grupo ha sido enviado“
+    "LIST": {
+      "INTERESTED": "Estoy interesado",
+      "CONTACT": "Contactar a líder",
+      "CONTACT-TITLE": "Contratar a líder",
+      "CONTACT-FROM": "De:",
+      "CONTACT-NAME-HELP": "Tu nombre es obligatorio",
+      "CONTACT-EMAIL-HELP": "Tu correo electrónico es obligatorio",
+      "CONTACT-MSG-TITLE": "Mensaje:",
+      "CONTACT-MSG": "Hola, tengo una pregunta sobre tu grupo pequeño, {{Nombre}}.",
+      "CONTACT-MSG-HELP": "Tu mensaje de contacto es obligatorio",
+      "CONTACT-SENT": "Tu mensaje de contacto ha sido enviado.",
+      "JOIN-TITLE": "Un paso más:",
+      "JOIN-PROMPT": "Qué información quieres compartir con el miembro de {{nombre}}?",
+      "JOIN-PRIVATE-EMAIL": "Privado – Solo el líder del grupo verá tu correo electrónico",
+      "JOIN-PRIVATE-PHONE": "Privado – Solo el líder del grupo verá tu número telefónico",
+      "JOIN-BTN": "Únete a un grupo!",
+      "JOIN-SENT": "Tu pedido de unirte a un grupo ha sido enviado"
     },
-    “SERVER-ERROR-NO-CHURCH”: “No se ha encontrado ninguna iglesia con esta dirección web.”
+    "SERVER-ERROR-NO-CHURCH": "No se ha encontrado ninguna iglesia con esta dirección web."
   },
 
   "GENERAL": {
     "FIND-GROUPS": {
-      "HERO-MAIN": "Encontrar grupos pequeños“,
-      “HERO-SUB”: “Conéctate con el directorio de grupos pequeños de tu iglesia”,
-      “HERO-PLACEHOLDER": "¿Cómo se llama tu iglesia?”,
-      “VIEW-GROUPS”: "Ver Grupos",
-      "HERO-PROMPT": "Escribe el nombre de tu iglesia arriba para comenzar“
+      "HERO-MAIN": "Encontrar grupos pequeños",
+      "HERO-SUB": "Conéctate con el directorio de grupos pequeños de tu iglesia",
+      "HERO-PLACEHOLDER": "¿Cómo se llama tu iglesia?",
+      "VIEW-GROUPS": "Ver Grupos",
+      "HERO-PROMPT": "Escribe el nombre de tu iglesia arriba para comenzar"
     }
   },
 
-  “ADDRESS-FORM”: {
-    “ADDRESS-LABEL": "Dirección“,
-    “PLACE-LABEL": "Nombre de lugar“,
-    “PLACE-PLACEHOLDER": "Starbucks, O una casa“,
-    “PLACE-REQD": "El nombre del lugar es obligatorio“,
-    “ADDR1-LABEL”: “Dirección“,
-    “ADDR1-PLACEHOLDER": "Nombre de la calle principal o referencia“,
-    “ADDR1-REQD”: “La dirección es obligatoria“,
-    “ADDR2-LABEL”: “Dirección 2”,
-    “ADDR2-PLACEHOLDER": "Departamento, unidad, edificio, piso, etc.",
-    "CITY-LABEL": "Ciudad/ Distrito“,
-    “CITY-REQD": "El nombre de la ciudad o distrito es obligatorio“,
-    “STATE-LABEL”: “Estado/Provincia/Región”,
-    "STATE-REQD": "Estado/Provincia/Región son obligatorios“,
-    “ZIP-LABEL”: “Código postal“,
-    “ZIP-REQD": "El código postal es obligatorio“,
-    “COUNTRY-LABEL”: “País“,
-    "MAP-DRAG-PIN": "Lleva la señal del mapa hasta donde estás tú actualmente“,
-    “MAP-RESET-PIN”: “Ubicar la señal del mapa automáticamente.”
+  "ADDRESS-FORM": {
+    "ADDRESS-LABEL": "Dirección",
+    "PLACE-LABEL": "Nombre de lugar",
+    "PLACE-PLACEHOLDER": "Starbucks, O una casa",
+    "PLACE-REQD": "El nombre del lugar es obligatorio",
+    "ADDR1-LABEL": "Dirección",
+    "ADDR1-PLACEHOLDER": "Nombre de la calle principal o referencia",
+    "ADDR1-REQD": "La dirección es obligatoria",
+    "ADDR2-LABEL": "Dirección 2",
+    "ADDR2-PLACEHOLDER": "Departamento, unidad, edificio, piso, etc.",
+    "CITY-LABEL": "Ciudad/ Distrito",
+    "CITY-REQD": "El nombre de la ciudad o distrito es obligatorio",
+    "STATE-LABEL": "Estado/Provincia/Región",
+    "STATE-REQD": "Estado/Provincia/Región son obligatorios",
+    "ZIP-LABEL": "Código postal",
+    "ZIP-REQD": "El código postal es obligatorio",
+    "COUNTRY-LABEL": "País",
+    "MAP-DRAG-PIN": "Lleva la señal del mapa hasta donde estás tú actualmente",
+    "MAP-RESET-PIN": "Ubicar la señal del mapa automáticamente."
   },
 
-  “CONTACT”: {
-    “TITLE": "Contáctanos“,
-    “PROMPT": "Nos gustaría escuchar de ti“,
-    “YOUR-NAME”: “Tu nombre“,
-    “YOUR-EMAIL": "Tu correo electrónico“,
-    “YOUR-MESSAGE”: "Tu mensaje“,
-    "SEND-BTN": "Enviar mensaje“,
-    “ENGLISH": "Por favor, tomar en cuenta que el mensaje debe ser enviado en inglés. Si no hablas inglés, contactarte con tu iglesia local.”,
-    "OTHER-WAYS": "De caso contrario contáctanos“,
-    “READY”: “Listo para lanzar grupos pequeños en tu iglesia?”,
-    “READY-BTN”: “Aprende más”,
-    “SERVER-SUCCESS": "Tu mensaje de contacto ha sido enviado.”
+  "CONTACT": {
+    "TITLE": "Contáctanos",
+    "PROMPT": "Nos gustaría escuchar de ti",
+    "YOUR-NAME": "Tu nombre",
+    "YOUR-EMAIL": "Tu correo electrónico",
+    "YOUR-MESSAGE": "Tu mensaje",
+    "SEND-BTN": "Enviar mensaje",
+    "ENGLISH": "Por favor, tomar en cuenta que el mensaje debe ser enviado en inglés. Si no hablas inglés, contactarte con tu iglesia local.",
+    "OTHER-WAYS": "De caso contrario contáctanos",
+    "READY": "Listo para lanzar grupos pequeños en tu iglesia?",
+    "READY-BTN": "Aprende más",
+    "SERVER-SUCCESS": "Tu mensaje de contacto ha sido enviado."
   },
 
-  “HOME”: {
-    “HERO”: {
+  "HOME": {
+    "HERO": {
       "TITLE": "Administrar grupos pequeños en línea- Gratis",
-      "SUBTITLE": "Pastorea en línea con más efectividad los grupos pequeños de tu iglesia”,
-      “ACTION-BTN": "Crear mi cuenta gratis“,
-      “ACTION-LEARN-MORE": "Aprende más“
+      "SUBTITLE": "Pastorea en línea con más efectividad los grupos pequeños de tu iglesia",
+      "ACTION-BTN": "Crear mi cuenta gratis",
+      "ACTION-LEARN-MORE": "Aprende más"
     },
     "HOW": {
       "TITLE": "¿Cómo me puede ayudar Smallgroups.church?",
       "SUBTITLE": "Únete a cientos de pastores y coordinadores de grupos pequeños que manejan sus grupos pequeños con Smallgroups.church."
     },
     "FEATURE1": {
-      "TITLE": "Construyó un directorio en línea simple y bonito”,
-      "P1": "Los líderes registran sus grupos pequeños y los participantes pueden encontrar uno“,
-      “QUOTE”: “”,
-      “QUOTER”: “”,
-      “SCREENSHOT”: “(Captura de pantalla: directorio de grupos pequeños)”
+      "TITLE": "Construyó un directorio en línea simple y bonito",
+      "P1": "Los líderes registran sus grupos pequeños y los participantes pueden encontrar uno",
+      "QUOTE": "",
+      "QUOTER": "",
+      "SCREENSHOT": "(Captura de pantalla: directorio de grupos pequeños)"
     },
-    “FEATURE2": {
-      "TITLE": "En poder a los líderes a que cuiden a los propios participantes de sus grupos”,
-      “P1”: “Los líderes de grupos pequeños pueden administrar la lista de contactos de su grupo y tomar propiedad de su información de contacto sin depender de una persona del staff.”,
-      “QUOTE”: “”,
-      “QUOTER": "",
-      "SCREENSHOT": "(Captura de pantalla: los líderes administrando sus propios grupos)”
+    "FEATURE2": {
+      "TITLE": "En poder a los líderes a que cuiden a los propios participantes de sus grupos",
+      "P1": "Los líderes de grupos pequeños pueden administrar la lista de contactos de su grupo y tomar propiedad de su información de contacto sin depender de una persona del staff.",
+      "QUOTE": "",
+      "QUOTER": "",
+      "SCREENSHOT": "(Captura de pantalla: los líderes administrando sus propios grupos)"
     },
-    “FEATURE3": {
-      "TITLE": "Usar la data de tus grupos pequeños para mantener al ministerio saludable”,
-      “P1”: “Reportes fáciles de usar que te ayudarán a medir la participación de las personas a través de tiempo.”,
-      “QUOTE”: “”,
-      “QUOTER": "",
-      "SCREENSHOTA": "(Captura de pantalla: panel de grupos pequeños de una iglesia)”,
-      “SCREENSHOTB": "(Captura de pantalla: reporte de grupos pequeños de una temporada)”
+    "FEATURE3": {
+      "TITLE": "Usar la data de tus grupos pequeños para mantener al ministerio saludable",
+      "P1": "Reportes fáciles de usar que te ayudarán a medir la participación de las personas a través de tiempo.",
+      "QUOTE": "",
+      "QUOTER": "",
+      "SCREENSHOTA": "(Captura de pantalla: panel de grupos pequeños de una iglesia)",
+      "SCREENSHOTB": "(Captura de pantalla: reporte de grupos pequeños de una temporada)"
     },
-    “QUESTIONS": {
-      "TITLE": "¿Aún tienes preguntas?”,
-      “BTN”: “Revisa la lista de preguntas y respuestas“,
-      “SIGN-UP”: “Regístrate ahora”
+    "QUESTIONS": {
+      "TITLE": "¿Aún tienes preguntas?",
+      "BTN": "Revisa la lista de preguntas y respuestas",
+      "SIGN-UP": "Regístrate ahora"
     },
     "SAYING": {
-      "TITLE": "¿Que están diciendo los pastores y staff?”,
-      “Q1”: {
-        “QUOTE”: “Eventualmente, nos gustaría ver a todos en nuestra iglesia en un pequeño grupo. Vemos que más personas encuentran libertad si están en un grupo y creemos que es la mejor manera de conectarse y mantenerse conectados.",
+      "TITLE": "¿Que están diciendo los pastores y staff?",
+      "Q1": {
+        "QUOTE": "Eventualmente, nos gustaría ver a todos en nuestra iglesia en un pequeño grupo. Vemos que más personas encuentran libertad si están en un grupo y creemos que es la mejor manera de conectarse y mantenerse conectados.",
         "NAME": "Melton Weaver",
-        "TITLE": "Director de relaciones, Our Savior’s Church”
+        "TITLE": "Director de relaciones, Our Savior’s Church"
       },
       "Q2": {
         "QUOTE": "Cita 2",
@@ -864,39 +864,39 @@
       }
     },
     "WHO": {
-      "TITLE": "¿Quién más está usando Smallgroups.church?”,
-      "LOOKING": "¿Estás buscando una iglesia en específico?”,
-      “LOOKING-LINK1”: “Encuéntrala aquí”,
-      “LOOKING-LINK2": "Ponte en contacto“
+      "TITLE": "¿Quién más está usando Smallgroups.church?",
+      "LOOKING": "¿Estás buscando una iglesia en específico?",
+      "LOOKING-LINK1": "Encuéntrala aquí",
+      "LOOKING-LINK2": "Ponte en contacto"
     },
-    “GET-STARTED-BTN": "Crea tu cuenta gratis ahora!”
+    "GET-STARTED-BTN": "Crea tu cuenta gratis ahora!"
   },
 
-  “ABOUT-US”: {
-    "TITLE": "Vidas son cambiadas en el contexto de relaciones.”,
-    “P1”: “Creemos que las relaciones saludables proporcionan el catalizador ideal para el crecimiento espiritual, la sanidad y la plenitud. Como cristianos, estamos llamados a caminar juntos en comunidad.",
-    "P2": "En una iglesia de pequeños grupos alguien puede ser auténtico, divertido y acogedor. Pero si las iglesias no dan prioridad a los grupos pequeños, los miembros de la iglesia y los asistentes nunca pueden entrar en relaciones que cambien sus vidas.”,
-    “P3": "Los grupos pequeños también proporcionan una manera de pastorear y cuidar a los miembros de la iglesia. Cuando los miembros son abiertos y reales entre sí, pueden reunirse en crisis a través de la oración y apoyarse de formas prácticas.”,
-    “TEAM”: “Conoce el equipo“,
-    “CO-FOUNDER": "Cofundadores“,
-    “CO-FOUNDERS": "Cofundadores“
+  "ABOUT-US": {
+    "TITLE": "Vidas son cambiadas en el contexto de relaciones.",
+    "P1": "Creemos que las relaciones saludables proporcionan el catalizador ideal para el crecimiento espiritual, la sanidad y la plenitud. Como cristianos, estamos llamados a caminar juntos en comunidad.",
+    "P2": "En una iglesia de pequeños grupos alguien puede ser auténtico, divertido y acogedor. Pero si las iglesias no dan prioridad a los grupos pequeños, los miembros de la iglesia y los asistentes nunca pueden entrar en relaciones que cambien sus vidas.",
+    "P3": "Los grupos pequeños también proporcionan una manera de pastorear y cuidar a los miembros de la iglesia. Cuando los miembros son abiertos y reales entre sí, pueden reunirse en crisis a través de la oración y apoyarse de formas prácticas.",
+    "TEAM": "Conoce el equipo",
+    "CO-FOUNDER": "Cofundadores",
+    "CO-FOUNDERS": "Cofundadores"
   },
 
-  “FAQ": {
-    "TITLE": "Preguntas frecuentes“,
-    “P1A”: “ ¿Nuevo por aquí? Dale una revisada a nuestras preguntas frecuentes y si aún tienes preguntas,”,
-    "P1B": "Contáctanos aquí.”,
-    “Q1”: {
+  "FAQ": {
+    "TITLE": "Preguntas frecuentes",
+    "P1A": " ¿Nuevo por aquí? Dale una revisada a nuestras preguntas frecuentes y si aún tienes preguntas,",
+    "P1B": "Contáctanos aquí.",
+    "Q1": {
       "QUEST": "¿Cómo funciona Smallgroups.church?",
       "ANS1": "Smallgroups.church es un sistema de gestión de grupos pequeños y directorio en línea. Los pastores y / o coordinadores invitan a los líderes de grupo a crear cuentas, luego los líderes crean sus propios grupos, los cuales son aprobados o rechazados por los administradores. Los miembros de la iglesia pueden buscar en el directorio y (opcionalmente) registrarse para grupos. Nuestros informes le dan una visión general de la salud de su ministerio de grupos pequeños, mientras que quita gran parte del trabajo administrativo."
     },
     "Q2": {
-      "QUEST": "¿Realmente este servicio es gratis?”,
-      “ANS1”: “¡Sí! Cuando lanzamos Smallgroups.church, sentimos que Dios nos estaba llamando para regalarlo sin costo alguno. ¡Ahora podemos ayudar a que más iglesias locales tengan pequeños grupos exitosos!"
+      "QUEST": "¿Realmente este servicio es gratis?",
+      "ANS1": "¡Sí! Cuando lanzamos Smallgroups.church, sentimos que Dios nos estaba llamando para regalarlo sin costo alguno. ¡Ahora podemos ayudar a que más iglesias locales tengan pequeños grupos exitosos!"
     },
     "Q3": {
-      "QUEST": "¿Hay alguna trampa?”,
-      “ANS1”: "Nope. Podemos ofrecer servicios premium en el futuro, pero serás incluido en el plan "Gratis por siempre". Ninguna característica se quitará y se empaquetará en una oferta superior si han usado el sistema previamente.",
+      "QUEST": "¿Hay alguna trampa?",
+      "ANS1": "Nope. Podemos ofrecer servicios premium en el futuro, pero serás incluido en el plan "Gratis por siempre". Ninguna característica se quitará y se empaquetará en una oferta superior si han usado el sistema previamente.",
       "ANS2A": "También hemos considerado la incorporación de anuncios seleccionados, cristianos específicos en el sitio web y / o correos electrónicos. Deberíamos hacerlo, puedes estar seguro de que seremos 100% transparentes, ofreceremos la posibilidad de optar por",
       "ANS2B": "nunca venderemos ni compartiremos ningún dato personalmente identificable."
     },
@@ -926,35 +926,35 @@
       "ANS1B": "crea tu cuenta",
       "ANS1C": "si aún no lo ha hecho.",
       "ANS2A": "entonces",
-      "ANS2B": "registra tu iglesia,“,
-      “ANS3A”: “ Y sigue”,
-      "ANS3B": "La guía rápida“,
-      “ANS3C": "Para comenzar y avanzar.”
+      "ANS2B": "registra tu iglesia,",
+      "ANS3A": " Y sigue",
+      "ANS3B": "La guía rápida",
+      "ANS3C": "Para comenzar y avanzar."
     }
   },
 
-  “API”: {
+  "API": {
     "ERROR": {
       "INVALID": "Su solicitud no es válida. Si los problemas persisten, póngase en contacto con el soporte técnico."
     },
     "SUCCESS": {
       "GROUP": {
         "UPDATED": "El grupo ha sido actualizado",
-        "CREATED": "Tu grupo ha sido creado.”,
-        “INVITATION-RESENT": "La invitación a tu grupo ha sido reenviada.”,
-        “TRANSFERRED”: “Tu grupo sido transferido y ya no eres un participante“,
-        “INVITATION-ACCEPTED”: “Invitación aceptada.“,
-        “INVITATION-DECLINED": "Invitación rechazada.”,
-        “SHARED-INFO-UPDATED": "Compartir información actualizada.”
+        "CREATED": "Tu grupo ha sido creado.",
+        "INVITATION-RESENT": "La invitación a tu grupo ha sido reenviada.",
+        "TRANSFERRED": "Tu grupo sido transferido y ya no eres un participante",
+        "INVITATION-ACCEPTED": "Invitación aceptada.",
+        "INVITATION-DECLINED": "Invitación rechazada.",
+        "SHARED-INFO-UPDATED": "Compartir información actualizada."
       },
-      “PROFILE”: {
-        "UPDATED": "Tu perfil ha sido actualizado“,
-        “EMAIL-UPDATED”: “Tu correo electrónico ha sido actualizado.”,
-        “PASS-CHANGED”: “Tu contraseña ha sido cambiada“,
-        “PREFS-UPDATED”: “Tu correo electrónico de preferencia ha sido actualizado.”,
-        “EMAIL-VERIFY-SENT”: “Correo de verificación enviado“,
-        “EMAIL-VERIFIED”: “Tu correo electrónico ha sido verificado.”,
-        “EMAIL-VERIFY-ERROR”: “Ha habido un error verificando tu correo electrónico“
+      "PROFILE": {
+        "UPDATED": "Tu perfil ha sido actualizado",
+        "EMAIL-UPDATED": "Tu correo electrónico ha sido actualizado.",
+        "PASS-CHANGED": "Tu contraseña ha sido cambiada",
+        "PREFS-UPDATED": "Tu correo electrónico de preferencia ha sido actualizado.",
+        "EMAIL-VERIFY-SENT": "Correo de verificación enviado",
+        "EMAIL-VERIFIED": "Tu correo electrónico ha sido verificado.",
+        "EMAIL-VERIFY-ERROR": "Ha habido un error verificando tu correo electrónico"
       }
     }
   }
