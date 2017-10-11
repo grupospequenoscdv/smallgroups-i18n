@@ -18,6 +18,8 @@
   "DELETE": "Delete",
   "UPDATE": "Update",
   "REMOVE": "Remove",
+  "TOTAL": "Total",
+  "PRINT": "Print",
 
   "NAME": "Name",
   "NAME-PLACEHOLDER": "Full Name",
@@ -53,6 +55,7 @@
         "LINK-DASHBOARD": "Groups Dashboard",
         "LINK-LIST": "My Groups",
         "LINK-FIND": "Find a Group",
+        "LINK-DIRECTORY": "Directory",
         "LINK-CREATE": "Create a Group"
       },
       "ACCOUNT": {
@@ -145,7 +148,7 @@
     },
     "LOGGED-IN": {
       "TITLE": "Logged In",
-      "MESSAGE": "Hi {{name}}, you're already logged in. Click below to logout.",
+      "MESSAGE": "Hi {{name}}, you're already logged in.",
       "LOGOUT-BTN": "Log Out",
       "LOGGING-IN": "Logging in..."
     },
@@ -192,12 +195,15 @@
     "APPROVED": "Approved",
     "DECLINED": "Declined",
     "DISABLED": "Disabled",
+    "INVITED": "Invited",
     "PENDING-MEMBER": "Pending Member Approval",
     "APPROVE-MEMBER": "Approve Member",
     "DECLINE-MEMBER": "Decline Member",
     "DISABLE-MEMBER": "Disable Member",
     "RESEND-EMAIL": "Resend Invitation Email",
     "ROSTER-REMOVE-MEMBER-PROMPT": "You're attempting to remove this user from your group",
+    "CANCEL-MEMBERSHIP-REQUEST": "Cancel request for membership",
+    "CANCEL-MEMBERSHIP-REQUEST-PROMPT": "You're attempting to delete your request for membership in this group.",
     "YES-DELETE": "Yes, delete",
     "NO-CANCEL": "No, cancel",
     "WHY": "Why?",
@@ -215,6 +221,9 @@
     "VISIBLE": "Visible in Directory?",
     "STATUS-ADMIN-ONLY": "Your group's status is set by the small group's administrator at your church; you may not modify it.",
     "UPDATE": "Update Group",
+    "DELETE-GROUP": "Delete Group",
+    "DELETE-GROUP-BTN": "Perform Delete",
+    "DELETE-GROUP-PROMPT": "You're attempting to remove this group permanantly from your church. This action cannot be undone!",
     "MODIFY": "Modify Details",
     "REASSIGN": "Reasign Ownership",
     "TRANSFER-GROUP": "Transfer Group",
@@ -317,6 +326,11 @@
   },
 
   "MY-GROUPS": {
+    "ASSIGN-CHURCH": {
+      "TITLE": "Assign your home church",
+      "P1": "Oops, we need to know which church you call home.",
+      "BTN": "Find My Church"
+    },
     "DASHBOARD": {
       "TITLE": "Groups",
       "MY-GROUPS": {
@@ -349,6 +363,7 @@
       "HOSTING-DESCRIPT": "Hosting your own group is easy. Take a few minutes to complete this form, and upon approval, your group will be listed in the small groups directory.",
       "HELP": "Need help with this form?",
       "LINK-GUIDE": "View the Leader Guide",
+      "FORM-FIELDS-REQD": "All fields are required.",
       "FORM-TITLE": "Complete this form to submit your group:",
       "FORM-TITLE-EDIT": "Complete the following form to update this group:",
       "FORM-SELECT-ONE": "(Select One)",
@@ -405,11 +420,12 @@
     "DASHBOARD": {
       "TITLE": "Dashboard",
       "VIEW-ALL": "View All",
-      "TOTAL-LEADERS": "Total Leaders",
-      "TOTAL-MEMBERS": "Total Members",
-      "TOTAL-GROUPS": "Total Groups",
+      "TOTAL-LEADERS": "Approved Leaders",
+      "TOTAL-MEMBERS": "Approved Members",
+      "TOTAL-GROUPS": "Approved Groups",
       "PENDING": "Pending",
-      "LISTED": "Listed in Directory",
+      "LISTED": "Listed",
+      "LISTED-DIR": "Listed in Directory",
       "UNLISTED": "Unlisted",
       "PENDING-GROUPS": "Pending Groups:"
     },
@@ -480,11 +496,16 @@
         "VIEW": "View",
         "OVERVIEW": {
           "TITLE": "Small Groups",
-          "DESCRIPT": "Get insights into your groups with a high-level overview of your group's metrics – like who, what, when, and how many."
+          "DESCRIPT": "Get insights into your groups with a high-level overview of your group's metrics – like who, what, when, and how many.",
+          "WHO-TITLE": "Who attends these groups?",
+          "AGES-TITLE": "What are their ages?",
+          "WHAT-TITLE": "What are they doing?",
+          "WHAT-CHART-X": "Number of Groups"
         },
         "PRINT": {
           "TITLE": "Print Groups",
-          "DESCRIPT": "View a print-friendly format of your active small groups for use offline, like in a directory or to post on a buildboard."
+          "DESCRIPT": "View a print-friendly format of your active small groups for use offline, like in a directory or to post on a buildboard.",
+          "ALL-GROUPS": "All Groups"
         }
       },
       "PROFILE": {
@@ -692,6 +713,11 @@
         "AGES": {
           "TITLE": "Ages"
         },
+        "CREATE": {
+          "TITLE": "Create a new filter:",
+          "NAME": "Name",
+          "BTN": "Create"
+        },
         "SERVER": {
           "UPDATE": {
             "SUCCESS": "Your filter has been updated.",
@@ -713,7 +739,7 @@
         "GROUPS": {
           "TITLE": "Small Groups",
           "DESCRIPT": "Download all of your small groups information.",
-          "INCLUDES": "Includes: Semester, Group name, Description, Who, What, Ages, Childcare Provided, City, State, Zip, Address Viewable, Time of Day, Day of Week, Status, Visible in directory, Created, and Primary Leader's Name, email address, and phone number."
+          "INCLUDES": "Includes: Campus Name, Semester, Name, Description, Who, What, Days, Time, Ages, Childcare Provided, Address Hidden, Address Street1, Address Street2, Address City, Address State, Address Zip, Status, Visible In Directory, Primary Leader Name, Primary Leader Email, Primary Leader Phone, Created Date."
         },
         "LEADERS": {
           "TITLE": "Group Leaders",
@@ -736,6 +762,7 @@
       "WHO": "Who",
       "WHAT": "What",
       "AGE": "Any Age",
+      "CHILDCARE-ANY": "Childcare",
       "CHILDCARE-NO": "No Childcare",
       "CHILDCARE-YES": "Yes Childcare",
       "ZIP": "Zip Code",
@@ -757,7 +784,8 @@
       "JOIN-PRIVATE-EMAIL": "Private – only the group leader will see your email",
       "JOIN-PRIVATE-PHONE": "Private – only the group leader will see your phone number",
       "JOIN-BTN": "Join Group!",
-      "JOIN-SENT": "Your request to join has been sent."
+      "JOIN-SENT": "Your request to join has been sent.",
+      "JOIN-LOGIN-PROMPT": "You need to be logged in to join a group:"
     },
     "SERVER-ERROR-NO-CHURCH": "There was no church found for this web address."
   },
@@ -781,6 +809,7 @@
     "ADDR1-PLACEHOLDER": "Street address, P.O. box, company name, c/o",
     "ADDR1-REQD": "Address Line 1 is required",
     "ADDR2-LABEL": "Address Line 2",
+    "OPTIONAL": "(Optional)",
     "ADDR2-PLACEHOLDER": "Apartment, suite, unit, building, floor, etc.",
     "CITY-LABEL": "City",
     "CITY-REQD": "City is required",
@@ -897,7 +926,7 @@
     "Q3": {
       "QUEST": "Is there a catch?",
       "ANS1": "Nope. We may offer premium services in the future, but you will be included in the \"Free Forever\" plan. No features will ever be taken away and bundled into a premium offering if they have ever been previously free to use.",
-      "ANS2A": "We've also considered incorporating vetted, Christian-specific advertisements into the website and/or emails. Should we do this, rest assured we will be 100% transparent, provide the ability to opt-out, and",
+      "ANS2A": "We've also considered incorporating vetted, Christian-appropriate advertisements into the website and/or emails. Should we do this, rest assured we will be 100% transparent, provide the ability to opt-out, and",
       "ANS2B": "we will never sell or otherwise share any personally-identifiable data."
     },
     "Q4": {
@@ -941,11 +970,13 @@
       "GROUP": {
         "UPDATED": "The group has been updated.",
         "CREATED": "Your group has been created.",
+        "DELETED": "Your group has been deleted.",
         "INVITATION-RESENT": "Your group invitation has been resent.",
         "TRANSFERRED": "Your group has been transfered and you are no longer a member.",
         "INVITATION-ACCEPTED": "Invitation accepted.",
         "INVITATION-DECLINED": "Invitation declined.",
-        "SHARED-INFO-UPDATED": "Shared information updated."
+        "SHARED-INFO-UPDATED": "Shared information updated.",
+        "CANCEL-MEMBERSHIP-REQUEST": "Your membership request has been cancelled."
       },
       "PROFILE": {
         "UPDATED": "Your profile has been updated.",
@@ -956,6 +987,12 @@
         "EMAIL-VERIFIED": "Your email address has been verified.",
         "EMAIL-VERIFY-ERROR": "There was an error verifying your email address."
       }
+    },
+    "UPDATE_EMAIL_ADDRESS": {
+      "EXISTS": "This email address is already in use by another user."
+    },
+    "SET_GROUP_MEMBER_LEADERSHIP": {
+      "LAST": "You may not remove your own group leadership unless you add another leader to the group with a valid email address."
     }
   }
 }
