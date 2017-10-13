@@ -1,11 +1,11 @@
-Hi {{toName}}, {{leaderName}} has approved your request to join the following group:
+Hola {{toName}}, {{leaderName}} ha aceptado tu pedido de unirte al siguiente grupo pequeño:
 
   {{group.name}}
   
   {{group.descript}}
 
-  Who: {{group.who}}
-  What: {{group.what}}
-  Church Campus: {{group.campus}}
+  Quién: {{group.who}}
+  Qué: {{group.what}}
+  Sede/Campus: {{group.campus}}
 
-The Smallgroups.church team
+El equipo de Smallgroups.church
