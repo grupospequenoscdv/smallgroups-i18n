@@ -1,11 +1,11 @@
-Hi {{toName}}, {{leaderName}} has invited you to join the following group:
+Hola {{toName}}, {{leaderName}} te ha invitado a unirse al siguiente grupo:
 
   {{group.name}}
   
   {{group.descript}}
 
-  Who: {{group.who}}
-  What: {{group.what}}
-  Church Campus: {{group.campus}}
+  Quién: {{group.who}}
+  Qué: {{group.what}}
+  Sede/Campus: {{group.campus}}
 
 The Smallgroups.church team
