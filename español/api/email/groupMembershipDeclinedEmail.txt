@@ -1,5 +1,5 @@
-I'm sorry {{toName}}, but {{leaderName}} has declined your request to join {{group.name}} for the following reason:
+Lo siento {{toName}}, pero {{leaderName}} ha rechazado tu solicitud de unirte a {{group.name}} en esta temporada:
 
   {{reason}}
 
-The Smallgroups.church team
+El equipo de Smallgroups.church 
