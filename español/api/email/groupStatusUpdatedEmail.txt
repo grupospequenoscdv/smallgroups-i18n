@@ -4,14 +4,13 @@
   
   {{group.descript}}
 
-  Who: {{group.who}}
-  What: {{group.what}}
-  Church Campus: {{group.campus}}
+  Quién: {{group.who}}
+  Qué: {{group.what}}
+  Sede/Campus: {{group.campus}}
 
 {{#if approved}}
-Next steps:
+Siguientes Pasos:
 
-  - Pray for the people who will come. Pray that God will use you in a powerful way as you lead.
-  - Invite your friends, neighbors, coworkers, and strangers to join your group. Don’t just expect people to show up -- they often need a personal invitation.
-  - Be ready when your group launches. Preparing shows your group members that you care about them.
-{{/if}}
+  - Ora por las personas que vendrán a tu grupo. Ora porque Dios te use de una forma poderosa en esta temporada como líder. 
+  - Invita a tus amigos, vecinos, compañeros de trabajo o cualquier otra persona para se una a tu grupo. No solo te limites a esperar que alguien se aparezca - Muchas personas necesitan de una invitación personal. 
+  - Prepárate para cuando tu grupo llegue. La preparación muestra a los participantes de tu grupo que te importan. {{/if}}
