@@ -1,11 +1,11 @@
-Hi {{toName}}, we wanted to let you know that {{fromName}} has edited this group:
+Hola {{toName}}, queremos avisarte que {{fromName}} ha editado este grupo:
 
   {{group.name}}
   
   {{group.descript}}
 
-  Who: {{group.who}}
-  What: {{group.what}}
-  Church Campus: {{group.campus}}
+  Quién: {{group.who}}
+  Qué: {{group.what}}
+  Sede/Campus: {{group.campus}}
 
-The Smallgroups.church team
+El equipo de Smallgroups.church 
