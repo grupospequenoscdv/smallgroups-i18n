@@ -1,223 +1,208 @@
-Terms of Service
+Términos de Servicio 
 
-The gist:
+La esencia:
 
-We (the folks at 1thrasher) run a service called Smallgroups.church and would love for you to use it. 
-  Our service is designed to give you as much control and ownership
-  over what goes on your site as possible and encourage you to express yourself freely. However, be responsible in what
-  you publish. In particular, make sure that none of the prohibited items listed below appear on your site or get linked
-  to from your site (things like spam, viruses, or hate content).
+Nosotros (la gente de 1thrasher) ejecutamos un servicio llamado Smallgroups.church y nos encantaría que lo usara.
+  Nuestro servicio está diseñado para brindarle el control y la propiedad de lo que sea posible en su sitio y alentarlo a expresarse
+  libremente. Sin embargo, sé responsable en lo que publiques. En particular, asegúrese de que ninguno de los elementos prohibidos
+  enumerados a continuación aparezca en su sitio o se vincule desde su sitio (cosas como spam, virus o contenido de odio).
 
-If you find a Smallgroups.church account or listing that you believe violates our terms of service, please contact us.
+Si encuentra una cuenta de Smallgroups.church o una lista que considera que infringe nuestras condiciones de servicio, comuníquese con
+  nosotros.
 
-(Thanks to Automattic.com for this Terms of Service, available under a Creative Commons Sharealike license.)
+(Gracias a Automattic.com por estos Términos de Servicio, disponibles bajo una licencia Creative Commons Sharealike).
 
-Terms of Service:
+Términos de servicio:
 
-The following terms and conditions govern all use of the Smallgroups.church website and all content, services and products
-  available at or through the website, including, but not limited to, Smallgroups.church (“the Website”). The Website is
-  offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other
-  operating rules, policies (including, without limitation, 1thrasher’s Privacy Policy) and procedures that may be published
-  from time to time on this Site by 1thrasher (collectively, the “Agreement”). Your agreement is with 1thrasher, LLC (“1thrasher”
-  or “we”).
+Los siguientes términos y condiciones rigen todo el uso del sitio web Smallgroups.church y todo el contenido, los servicios y los
+  productos disponibles en o a través del sitio web, que incluye, entre otros, Smallgroups.church ("el sitio web"). El sitio web es
+  ofrecido sujeto a su aceptación sin modificación de todos los términos y condiciones aquí contenidos y todas las demás reglas de
+  funcionamiento, políticas (incluyendo, sin limitación, la Política de privacidad de 1thrasher) y los procedimientos que pueden
+  publicarse de vez en cuando en este Sitio por 1thrasher (colectivamente, el "Acuerdo"). Su acuerdo es con 1thrasher, LLC ("1thrasher" o
+  nosotros").
 
-Please read this Agreement carefully before accessing or using the Website. By accessing or using any part of the web site,
-  you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions
-  of this agreement, then you may not access the Website or use any services. If these terms and conditions are considered
-  an offer by 1thrasher, acceptance is expressly limited to these terms. The Website is available only to individuals who
-  are at least 13 years old.
+Lea este Acuerdo cuidadosamente antes de acceder o usar el sitio web. Al acceder o usar cualquier parte del sitio web,
+  usted acepta quedar obligado por los términos y condiciones a estar de acuerdo. Si no acepta todos los términos y condiciones
+  de este acuerdo, entonces no puede acceder al sitio web ni usar ningún servicio. Si estos términos y condiciones se consideran una
+  oferta de 1thrasher, la aceptación está expresamente limitada a estos términos. El sitio web está disponible solo para personas que
+  tengan al menos 13 años de edad.
 
-    Your Smallgroups.church Account and Site. If you create an account on the Website, you are responsible
-      for maintaining the security of your account, and you are fully responsible for all activities that occur under the
-      account and any other actions taken in connection with the blog. You must not describe or assign keywords to your
-      account in a misleading or unlawful manner, including in a manner intended to trade on the name or reputation of
-      others, and 1thrasher may change or remove any account, description or keyword that it considers inappropriate or
-      unlawful, or otherwise likely to cause 1thrasher liability. You must immediately notify 1thrasher of any unauthorized
-      uses of your account or any other breaches of security. 1thrasher will not be liable for any acts or omissions by
-      You, including any damages of any kind incurred as a result of such acts or omissions.
-  
-    Responsibility of Contributors. If you operate an account, post material to the Website, or otherwise
-      make (or allow any third party to make) material available by means of the Website (any such material, “Content”),
-      You are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless
-      of whether the Content in question constitutes text, graphics, an audio file, or computer software. By making Content
-      available, you represent and warrant that:
-
+Su cuenta y sitio de Smallgroups.church. Si crea una cuenta en el sitio web, usted es responsable de mantener la seguridad de su cuenta, y
+  usted es completamente responsable de todas las actividades que ocurren bajo su cuenta y cualquier otra acción tomada en conexión con el
+  blog. No debe describir ni asignar palabras clave a su cuenta de una manera engañosa o ilegítima, incluso de manera comercial para el
+  nombre o la reputación de otros y 1thrasher puedan cambiar o eliminar cualquier cuenta, descripción o palabra clave que considere 
+  inapropiada o ilegal o de otra forma probable que genere culpa a 1thrasher. Debe notificar inmediatamente a 1thrasher de cualquier
+  persona no autorizada que haga uso de su cuenta o cualquier otro incumplimiento de la seguridad. 1thrasher no será responsable de ningún
+  acto u omisión por parte de usted, incluyendo cualquier daño de cualquier tipo incurrido como resultado de dichos actos u omisiones.
+  
+Responsabilidad de los contribuyentes. Si administra una cuenta, publica material en el sitio web o si permite que un tercero lo haga a 
+  través del sitio web (cualquier material, "Contenido"), debe saber que usted es completamente responsable del contenido y del daño
+  resultante de ese contenido. Por tal motivo, en el caso de contenido como texto, gráficos, un archivo de audio o software de
+  computadora, usted declara y garantiza que:
     
-      * the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited
-        to the copyright, patent, trademark or trade secret rights, of any third party;
-      * if your employer has rights to intellectual property you create, you have either (i) received permission from your
-        employer to post or make available the Content, including but not limited to any software, or (ii) secured from
-        your employer a waiver as to all rights in or to the Content;
-      * you have fully complied with any third-party licenses relating to the Content, and have done all things necessary
-        to successfully pass through to end users any required terms;
-      * the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive
-        content;
-      * the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial
-        content designed to drive traffic to third party sites or boost the search engine rankings of third party sites,
-        or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as
-        spoofing);
-      * the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or
-        publicity rights of any third party;
-      * your account is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists,
-        other blogs and web sites, and similar unsolicited promotional methods;
-      * your blog is not presented in a manner that misleads your readers into thinking that you are another person or company;
-        and
-      * you have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature,
-        uses and effects of the materials, whether requested to do so by 1thrasher or otherwise. By submitting Content
-        to 1thrasher for inclusion on your Website, you grant 1thrasher a world-wide, royalty-free, and non-exclusive license
-        to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing and promoting
-        your account. This license allows 1thrasher to make publicly-posted content available to third parties selected
-        by 1thrasher so that these third parties can analyze and distribute (but not publicly display) your content through
-        their services.
-    
+* la descarga, copia y uso del contenido no infringirá los derechos de propiedad, a los derechos de autor, patente, marca registrada o
+  secreto comercial, de cualquier tercero;
+ * si su empleador tiene derechos de propiedad intelectual sobre un contenido: (i) recibió el permiso de su empleador para publicar o  
+ poner a disposición el Contenido, que incluye, entre otros, cualquier software, o (ii) está protegido de una exención en cuanto a todos
+ los derechos en o al Contenido;
+* ha cumplido en su totalidad con las licencias de terceros relacionadas con el Contenido, y ha hecho todo lo necesario para cumplir
+  exitosamente los términos requeridos;
+* el Contenido no contiene ni instala ningún virus, bugs, malware, virus troyanos u otro daño o destrucción contenido;
+* El contenido no es spam, no está generado por una máquina o de forma aleatoria, y no contiene anuncios comerciales no éticos o contenido
+  no deseados diseñado para dirigir el tráfico a sitios de terceros o aumentar los rankings de motores de búsqueda de sitios de terceros,
+  u otros actos ilegales (como phishing) o engañar a los destinatarios en cuanto a la fuente del material (como spoofing);
+* El contenido no es pornográfico, no contiene amenazas ni incita a la violencia, y no infringe la privacidad o derechos de publicidad de
+  cualquier tercero;
+* su cuenta no se anuncia por medio de mensajes electrónicos no deseados, como enlaces de spam en grupos de noticias, listas de correo
+  electrónico, otros blogs y sitios web, y métodos promocionales no solicitados similares;
+* su blog no se presenta de una manera que engaña a sus lectores para que piensen que usted es otra persona o compañía; y
+* usted tiene que, en el caso del Contenido que incluye el código de computadora, categorizar y / o describir con precisión el tipo, la
+  naturaleza, usos y efectos de los materiales, ya sea que lo solicite 1thrasher o no. Al enviar Contenido a 1thrasher para su inclusión
+  en su sitio web, otorga a 1thrasher una licencia mundial, libre de regalías y no exclusiva reproducir, modificar, adaptar y publicar el
+  contenido únicamente con el fin de mostrar, distribuir y promocionar su cuenta. Esta licencia permite a 1thrasher hacer que el contenido
+  publicado públicamente esté disponible para terceros seleccionados por 1thrasher para que estos terceros puedan analizar y distribuir
+  (pero no mostrar públicamente) su contenido a través de sus servicios
 
-    You also give other Smallgroups.church users and non-users permission to search and share your publicly available Content
-      on other Smallgroups.church sites and add their own Content to it (aka to reblog your Content), so long as they use
-      only a portion of your post and they give you credit as the original author by linking back to your site.
+También le otorga a otros usuarios de Smallgroups.church y a las personas que no son usuarios el permiso para buscar y compartir su
+  Contenido disponible públicamente en otros sitios de Smallgroups.church y agregar su propio contenido (también conocido como reblogear),
+  siempre que utilicen solo una parte de su publicación y le otorgen crédito como autor original al vincularlo a su sitio.
 
-    If you delete Content, 1thrasher will use reasonable efforts to remove it from the Website, but you acknowledge that
-      caching or references to the Content may not be made immediately unavailable. Without limiting any of those representations
-      or warranties, 1thrasher has the right (though not the obligation) to, in 1thrasher’s sole discretion (i) refuse
-      or remove any content that, in 1thrasher’s reasonable opinion, violates any 1thrasher policy or is in any way harmful
-      or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any
-      reason, in 1thrasher’s sole discretion. 1thrasher will have no obligation to provide a refund of any amounts previously
-      paid.
-  
-    Payment and Renewal.
+Si elimina Contenido, 1thrasher hará todos los esfuerzos razonables para eliminarlo del Sitio web, pero reconoce que el almacenamiento en
+  caché o las referencias al Contenido pueden no estar disponibles de forma inmediata. 1thrasher tiene el derecho (aunque no la
+  obligación) de, a la sola discreción de 1thrasher (i) rechazar o eliminar cualquier contenido que, en la opinión razonable de 1thrasher,
+  viole cualquier política de 1thrasher o sea de alguna manera perjudicial u objetable, o (ii) rescindir o denegar el acceso y uso del
+  sitio web a cualquier persona o entidad por cualquier razón, a la sola discreción de 1thrasher. 1thrasher no tendrá la obligación de
+  proporcionar un reembolso de ninguna cantidad previamente pagada.  
 
-    
-      * General Terms. Paid services are available on the Website (any such services, a "Paid service"). By selecting a Paid
-        service you agree to pay 1thrasher the monthly or annual subscription fees indicated for that service. Payments
-        will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service
-        for a monthly or annual subscription period as indicated. Paid service fees are not refundable.
-      * Automatic Renewal. Unless you notify 1thrasher before the end of the applicable subscription period that you want
-        to cancel a Paid service, your Paid service subscription will automatically renew and you authorize us to collect
-        the then-applicable annual or monthly subscription fee for such Paid service (as well as any taxes) using any credit
-        card or other payment mechanism we have on record for you. Paid services can be canceled at any time in the Account
-        section of your site's dashboard.
-    
-  
-    Smallgroups.church Subscription.
+Pago y renovación.
+    
+      * Términos generales. Los servicios pagados están disponibles en el sitio web (cualquier "servicio de pago"). Al seleccionar un
+      servicio de pago, usted acepta pagar a 1thrasher las tarifas mensuales o anuales de suscripción indicadas para ese servicio. Los
+      pagos se cobrarán por prepago el día que se registre para una Actualización y cubrirá el uso de ese servicio por un período de
+      suscripción mensual o anual como se indica. Las tarifas de servicio pagadas no son reembolsables.
+      * Renovación Automática. A menos que notifique a 1thrasher antes del final del período de suscripción aplicable que desea cancelar
+      un servicio de pago, su suscripción de servicio de pago se renovará automáticamente y usted nos autorizará a cobrar la tarifa de
+      suscripción anual o mensual correspondiente a ese servicio de pago (también como cualquier impuesto) usando cualquier tarjeta de
+      crédito u otro mecanismo de pago de ustedes que tenemos registrado. Los servicios pagados pueden cancelarse en cualquier momento en
+      la sección Cuenta del panel de su sitio.
+    
+  
+ Smallgroups.church: Suscripción.
 
-      * Fees; Payment. By signing up for the Smallgroups.church subscription you agree to pay 1thrasher the specified monthly
-        fees in exchange for access to the Website. Applicable fees will be invoiced starting from the day your access
-        is established and in advance of using such services. 1thrasher reserves the right to change the payment terms
-        and fees upon thirty (30) days prior written notice to you. Smallgroups.church access can be canceled by you at
-        anytime on 30 days written notice to 1thrasher.
-      * Restricted Use. You may not use the Smallgroups.church Website to substantially replicate products or services offered
-        by 1thrasher, including the republication of Smallgroups.church content or the creation of a separate publishing
-        platform. If 1thrasher believes, in its sole discretion, that you have violated or attempted to violate these conditions
-        or the spirit of these terms, your ability to use and access the Smallgroups.church Website may be temporarily
-        or permanently revoked, with or without notice.
-    
+      * Tarifas; Pago. Al registrarse para la suscripción a Smallgroups.church, usted acepta pagar 1thrasher las tarifas mensuales
+      especificadas a cambio del acceso al sitio web. Las tarifas aplicables se facturarán a partir del día en que se establezca su acceso
+      y antes de utilizar dichos servicios. 1thrasher se reserva el derecho de cambiar los términos y tarifas de pago con treinta (30)
+      días de anticipación por escrito. El acceso a Smallgroups.church puede ser cancelado por usted en cualquier momento con 30 días de
+      aviso por escrito a 1thrasher.
+      * Uso restringido. No puede usar el sitio web de Smallgroups.church para replicar sustancialmente los productos o servicios
+      ofrecidos por 1thrasher, incluida la reedición del contenido de Smallgroups.church o la creación de una plataforma de publicación
+      independiente. Si 1thrasher cree, a su sola discreción, que ha violado o intentado violar estas condiciones o el espíritu de estos
+      términos, su capacidad de usar y acceder al sitio web de Smallgroups.church puede ser revocada temporal o permanentemente, con o sin
+      previo aviso.
+
+Responsabilidad de los visitantes del sitio web. 1thrasher no ha revisado, y no puede revisar, todo el material publicado en el sitio web
+  y, por lo tanto, no puede ser responsable del contenido, uso o efectos de ese material. Al operar el sitio web, 1thrasher no representa
+  ni implica que respalde el material publicado allí o que crea que tal material sea preciso, útil o no dañino. Usted es responsable de
+  tomar las precauciones necesarias para protegerse a usted mismo y a sus sistemas informáticos de virus, bugs, troyanos y otros
+  contenidos dañinos o destructivos.
   
-    Responsibility of Website Visitors. 1thrasher has not reviewed, and cannot review, all of the material,
-      posted to the Website, and cannot therefore be responsible for that material’s content, use or effects. By operating
-      the Website, 1thrasher does not represent or imply that it endorses the material there posted, or that it believes
-      such material to be accurate, useful or non-harmful. You are responsible for taking precautions as necessary to protect
-      yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content.
-      The Website may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing
-      technical inaccuracies, typographical mistakes, and other errors. The Website may also contain material that violates
-      the privacy or publicity rights, or infringes the intellectual property and other proprietary rights, of third parties,
-      or the downloading, copying or use of which is subject to additional terms and conditions, stated or unstated. 1thrasher
-      disclaims any responsibility for any harm resulting from the use by visitors of the Website, or from any downloading
-      by those visitors of content there posted.
+El sitio web puede contener contenido ofensivo, indecente u objetable, así como contenido que contiene imprecisiones técnicas, errores
+  tipográficos y otros errores. El sitio web también puede contener material que viole los derechos de privacidad o publicidad, o infrinja
+  la propiedad intelectual y otros derechos de propiedad de terceros, o que la descarga, el copiado o el uso estén sujetos a términos y
+  condiciones adicionales, declarados o no declarados. 1thrasher se exime de cualquier responsabilidad por cualquier daño resultante del
+  uso por parte de los visitantes del sitio web, o de cualquier descarga por parte de los visitantes del contenido publicado 
+
+Contenido publicado en otros sitios web. No hemos revisado, y no podemos revisar, todo el material, incluido el software de computadora,
+  disponible a través de los sitios web y las páginas web a los que Smallgroups.church enlaces, y ese enlace a Smallgroups.church.
+  1thrasher no tiene ningún control sobre esos sitios web y páginas web que no pertenecen a Smallgroups.church, y no es responsable de sus
+  contenidos ni de su uso. Al vincularse a un sitio web o página web externo, 1thrasher no representa ni implica que respalde dicho sitio
+  web o página web. Usted es responsable de tomar las precauciones necesarias para protegerse a usted mismo y a sus sistemas informáticos
+  de virus, bugs, troyanos y otros contenidos dañinos o destructivos. 1thrasher se exime de cualquier responsabilidad por cualquier daño
+  que resulte de su uso de sitios web y páginas web que no sean de Smallgroups.church.
   
-    Content Posted on Other Websites. We have not reviewed, and cannot review, all of the material, including
-      computer software, made available through the websites and webpages to which Smallgroups.church links, and that link
-      to Smallgroups.church. 1thrasher does not have any control over those non-Smallgroups.church websites and webpages,
-      and is not responsible for their contents or their use. By linking to an outside website or webpage, 1thrasher does
-      not represent or imply that it endorses such website or webpage. You are responsible for taking precautions as necessary
-      to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive
-      content. 1thrasher disclaims any responsibility for any harm resulting from your use of non-Smallgroups.church websites
-      and webpages.
+Infracción de derechos de autor y política DMCA. Así como 1thrasher pide a otros que respeten sus derechos de propiedad intelectual,
+  respeta los derechos de propiedad intelectual de otros. Si cree que el material ubicado o vinculado por Smallgroups.church viola sus
+  derechos de autor, le recomendamos que notifique a 1thrasher. De acuerdo con la Política de Derecho de Autor de Milenio Digital ("DMCA")
+  1thrasher responderá a todos los avisos, incluidos los necesarios o apropiados, eliminando el material infractor o deshabilitando todos
+  los enlaces al material infractor. 1thrasher terminará el acceso y uso del sitio web de un visitante si, en circunstancias apropiadas,
+  se determina que el visitante es un infractor reincidente de los derechos de autor u otros derechos de propiedad intelectual de
+  1thrasher u otros. En el caso de dicha terminación, 1thrasher no tendrá la obligación de proporcionar un reembolso de los montos
+  previamente pagados a 1thrasher.
   
-    Copyright Infringement and DMCA Policy. As 1thrasher asks others to respect its intellectual property
-      rights, it respects the intellectual property rights of others. If you believe that material located on or linked
-      to by Smallgroups.church violates your copyright, you are encouraged to notify 1thrasher in accordance with 1thrasher’s
-      Digital Millennium Copyright Act ("DMCA") Policy. 1thrasher will respond to all such notices, including as required
-      or appropriate by removing the infringing material or disabling all links to the infringing material. 1thrasher will
-      terminate a visitor's access to and use of the Website if, under appropriate circumstances, the visitor is determined
-      to be a repeat infringer of the copyrights or other intellectual property rights of 1thrasher or others. In the case
-      of such termination, 1thrasher will have no obligation to provide a refund of any amounts previously paid to 1thrasher.
+Propiedad intelectual. Este Acuerdo no transfiere de 1thrasher a usted ninguna propiedad intelectual de 1thrasher o de terceros, y todos
+  los derechos, títulos e intereses en y para dicha propiedad permanecerán (como entre las partes) únicamente con 1thrasher. 1thrasher,
+  Smallgroups.church, el logotipo de Smallgroups.church y todas las demás marcas comerciales, marcas de servicio, gráficos y logotipos
+  utilizados en conexión con Smallgroups.church o el sitio web son marcas comerciales o marcas comerciales registradas de 1thrasher. Otras
+  marcas comerciales, marcas de servicio, gráficos y logotipos utilizados en conexión con el sitio web pueden ser marcas comerciales de
+  otros terceros. Su uso del sitio web no le otorga ningún derecho o licencia para reproducir o usar de cualquier otra forma las marcas
+  registradas de 1thrasher o de terceros.
+  
+    Publicidades: 1thrasher se reserva el derecho de mostrar anuncios en su cuenta a menos que haya comprado una actualización libre de
+    publicidad.
+  
+    Atribución. 1thrasher se reserva el derecho de mostrar enlaces de atribución.
+  
+    Nombres de dominio. Si está registrando un nombre de dominio, utilizando o transfiriendo un nombre de dominio previamente registrado,
+    usted reconoce y acepta que el uso del nombre de dominio también está sujeto a las políticas de Internet Corporación para Nombres y
+    Números Asignados ("ICANN"), incluidos sus derechos y responsabilidades de registro.
   
-    Intellectual Property. This Agreement does not transfer from 1thrasher to you any 1thrasher or third
-      party intellectual property, and all right, title and interest in and to such property will remain (as between the
-      parties) solely with 1thrasher. 1thrasher, Smallgroups.church, the Smallgroups.church logo, and all other trademarks,
-      service marks, graphics and logos used in connection with Smallgroups.church, or the Website are trademarks or registered
-      trademarks of 1thrasher or 1thrasher’s licensors. Other trademarks, service marks, graphics and logos used in connection
-      with the Website may be the trademarks of other third parties. Your use of the Website grants you no right or license
-      to reproduce or otherwise use any 1thrasher or third-party trademarks.
+Cambios. Estamos constantemente actualizando nuestros servicios, y eso significa que a veces tenemos que cambiar los términos legales
+  bajo los cuales se ofrecen nuestros servicios. Si realizamos cambios que son importantes, le informaremos publicando en
+  Smallgroups.church, o enviándole un correo electrónico u otra comunicación antes de que los cambios surtan efecto. El aviso designará un
+  período de tiempo razonable después del cual los nuevos Términos entrarán en vigencia. Si no está de acuerdo con nuestros cambios, debe
+  dejar de usar Smallgroups.church dentro del período de notificación designado. Su uso continuo de Smallgroups.church estará sujeto a los
+  nuevos Términos. Sin embargo, cualquier disputa que surja antes de los cambios se regirá por los Términos (incluida la cláusula de
+  arbitraje individual vinculante) que existían cuando surgió la disputa.
   
-    Advertisements. 1thrasher reserves the right to display advertisements on your account unless you
-      have purchased an Ad-free Upgrade.
+Terminación. 1thrasher puede terminar su acceso a todo o parte del sitio web en cualquier momento, con o sin causa, con o sin aviso, en
+  vigencia de inmediato. Si desea rescindir este Acuerdo o su cuenta de Smallgroups.church (si tiene una), puede simplemente dejar de usar
+  el sitio web. Todas las disposiciones de este Acuerdo que por su naturaleza deben sobrevivir a la terminación seguirán vigentes,
+  incluidas, entre otras, las disposiciones de propiedad, las renuncias de garantía, la indemnización y las limitaciones de
+  responsabilidad.
+
+Descargo de responsabilidad de las garantías. El sitio web se proporciona "tal cual". 1thrasher y sus proveedores y otorgantes de licencia
+  rechazan toda garantía de cualquier tipo, expresa o implícita, incluidas, entre otras, las garantías de comerciabilidad, idoneidad para
+  un propósito particular y no infracción. Ni 1thrasher ni sus proveedores y licenciantes, garantizan que el sitio web estará libre de
+  errores o que el acceso a los mismos será continuo o ininterrumpido. Usted comprende que descarga, obtiene contenido u servicios a
+  través del sitio web a su propio criterio y riesgo.
   
-    Attribution. 1thrasher reserves the right to display attribution links.
+Limitación de responsabilidad. En ningún caso, 1thrasher, ni sus proveedores o licenciantes, serán responsables de cualquier tema de este
+  acuerdo bajo ningún contrato, negligencia, responsabilidad objetiva u otra teoría legal o equitativa para: (i) cualquier daño especial,
+  fortuito o consecuente; (ii) el costo de la adquisición de productos o servicios sustitutos; (iii) por la interrupción del uso o pérdida
+  o corrupción de datos; o (iv) por cualquier cantidad que exceda los honorarios pagados por usted a 1thrasher bajo este acuerdo durante
+  el período de doce (12) meses anterior a la causa de la acción. 1thrasher no tendrá ninguna responsabilidad por cualquier falla o
+  retraso debido a asuntos fuera de su control razonable. Lo anterior no se aplicará en la medida prohibida por la ley aplicable.
+
+Representación general y garantía. Usted declara y garantiza que (i) su uso del sitio web estará en estricta conformidad con la Política
+  de privacidad de 1thrasher, con este Acuerdo y con todas las leyes y regulaciones aplicables (incluidas, entre otras, las leyes y
+  regulaciones locales de su país, estado, ciudad , u otra área gubernamental, con respecto a la conducta en línea y el contenido
+  aceptable, e incluyendo todas las leyes aplicables con respecto a la transmisión de datos técnicos exportados desde los Estados Unidos o
+  el país en el que reside) y (ii) su uso del sitio web no infringirá o hará mal uso de los derechos de propiedad intelectual de cualquier
+  tercero
+  
+Indemnización. Usted acepta indemnizar y eximir de responsabilidad a 1thrasher, sus contratistas y sus licenciantes, y sus respectivos
+  directores, funcionarios, empleados y agentes de y contra cualquier y todos los reclamos y gastos, incluidos los honorarios de abogados,
+  que surjan de su uso del sitio web, incluidos, entre otros, su violación de este Acuerdo.
+  
+Traducción. Estos Términos de servicio se redactaron originalmente en inglés (EE. UU.). Podemos traducir estos términos a otros idiomas.
+  En caso de conflicto entre una versión traducida de estos Términos de servicio y la versión en inglés, la versión en inglés prevalecerá.
+ 
+Diverso. Este Acuerdo constituye el acuerdo completo entre 1thrasher y usted en relación con el tema del presente documento, y solo pueden
+  modificarse mediante una enmienda escrita firmada por un ejecutivo autorizado de 1thrasher, o mediante la publicación por parte de
+  1thrasher de una versión revisada. Excepto en la medida en que la ley aplicable, de haber alguna, establezca lo contrario, este Acuerdo,
+  cualquier acceso o uso del sitio web se regirá por las leyes del estado de Alabama, EE. UU., Excluyendo las disposiciones de conflicto
+  de leyes y el lugar apropiado para cualquier disputa que surja o se relacione con cualquiera de los mismos será la de los tribunales
+  estatales y federales ubicados en el condado de Tuscaloosa, Alabama. Excepto por las reclamaciones por medidas cautelares o equitativas
+  o por reclamaciones con respecto a los derechos de propiedad intelectual (que pueden presentarse en cualquier tribunal competente sin la
+  publicación de una fianza), cualquier disputa que surja bajo este Acuerdo se resolverá de acuerdo con las Reglas Generales de Arbitraje
+  del Arbitraje Judicial y Servicio de Mediación, LLC ("JAMS") por tres árbitros nombrados de conformidad con dichas Reglas. El arbitraje
+  se llevará a cabo en Tuscaloosa, Alabama, en idioma inglés y la decisión arbitral se puede aplicar en cualquier tribunal. La parte que
+  prevalece en cualquier acción o procedimiento para hacer cumplir este Acuerdo tendrá derecho a los costos y honorarios de los abogados.
+  Si alguna parte de este Acuerdo se considera inválida o inaplicable, esa parte se interpretará para reflejar la intención original de
+  las partes, y las partes restantes se mantendrán en plena vigencia y efecto. Una renuncia por cualquiera de las partes de cualquier
+  término o condición de este Acuerdo o cualquier incumplimiento de la misma, en cualquier caso, no renunciará a dicho término o condición
+  o cualquier incumplimiento posterior del mismo.
   
-    Domain Names. If you are registering a domain name, using or transferring a previously registered
-      domain name, you acknowledge and agree that use of the domain name is also subject to the policies of the Internet
-      Corporation for Assigned Names and Numbers ("ICANN"), including their Registration Rights and Responsibilities.
-  
-    Changes. We are constantly updating our services, and that means sometimes we have to change the legal
-      terms under which our services are offered. If we make changes that are material, we will let you know by posting
-      on Smallgroups.church, or by sending you an email or other communication before the changes take effect. The notice
-      will designate a reasonable period of time after which the new Terms will take effect. If you disagree with our changes,
-      then you should stop using Smallgroups.church within the designated notice period. Your continued use of Smallgroups.church
-      will be subject to the new Terms. However, any dispute that arose before the changes shall be governed by the Terms
-      (including the binding individual arbitration clause) that were in place when the dispute arose.
-  
-    Termination. 1thrasher may terminate your access to all or any part of the Website at any time, with
-      or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your
-      Smallgroups.church account (if you have one), you may simply discontinue using the Website. All provisions of this
-      Agreement which by their nature should survive termination shall survive termination, including, without limitation,
-      ownership provisions, warranty disclaimers, indemnity and limitations of liability.
-  
-    Disclaimer of Warranties. The Website is provided "as is". 1thrasher and its suppliers and licensors
-      hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of
-      merchantability, fitness for a particular purpose and non-infringement. Neither 1thrasher nor its suppliers and licensors,
-      makes any warranty that the Website will be error free or that access thereto will be continuous or uninterrupted.
-      You understand that you download from, or otherwise obtain content or services through, the Website at your own discretion
-      and risk.
-  
-    Limitation of Liability. In no event will 1thrasher, or its suppliers or licensors, be liable with
-      respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or
-      equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute
-      products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed
-      the fees paid by you to 1thrasher under this agreement during the twelve (12) month period prior to the cause of
-      action. 1thrasher shall have no liability for any failure or delay due to matters beyond their reasonable control.
-      The foregoing shall not apply to the extent prohibited by applicable law.
-  
-    General Representation and Warranty. You represent and warrant that (i) your use of the Website will
-      be in strict accordance with the 1thrasher Privacy Policy, with this Agreement and with all applicable laws and regulations
-      (including without limitation any local laws or regulations in your country, state, city, or other governmental area,
-      regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of
-      technical data exported from the United States or the country in which you reside) and (ii) your use of the Website
-      will not infringe or misappropriate the intellectual property rights of any third party.
-  
-    Indemnification. You agree to indemnify and hold harmless 1thrasher, its contractors, and its licensors,
-      and their respective directors, officers, employees and agents from and against any and all claims and expenses,
-      including attorneys’ fees, arising out of your use of the Website, including but not limited to your violation of
-      this Agreement.
-  
-    Translation. These Terms of Service were originally written in English (US). We may translate these
-      Terms into other languages. In the event of a conflict between a translated version of these Terms of Service and
-      the English version, the English version will control.
-  
-    Miscellaneous. This Agreement constitutes the entire agreement between 1thrasher and you concerning
-      the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive
-      of 1thrasher, or by the posting by 1thrasher of a revised version. Except to the extent applicable law, if any, provides
-      otherwise, this Agreement, any access to or use of the Website will be governed by the laws of the state of Alabama,
-      U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating
-      to any of the same will be the state and federal courts located in Tuscaloosa County, Alabama. Except for claims
-      for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any
-      competent court without the posting of a bond), any dispute arising under this Agreement shall be finally settled
-      in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service,, LLC (“JAMS”)
-      by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in Tuscaloosa, Alabama,
-      in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action
-      or proceeding to enforce this Agreement shall be entitled to costs and attorneys’ fees. If any part of this Agreement
-      is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining
-      portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement
-      or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof.
-      You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms
-      and conditions; 1thrasher may assign its rights under this Agreement without condition. This Agreement will be binding
-      upon and will inure to the benefit of the parties, their successors and permitted assigns. 
+Usted puede ceder sus derechos bajo este Acuerdo a cualquier parte que acepte y acuerde estar obligado por sus términos y condiciones;
+  1thrasher puede ceder sus derechos bajo este Acuerdo sin condición. Este Acuerdo será vinculante y redundará en beneficio de las partes, 
+  sus sucesores y cesionarios permitidos.
