@@ -1,94 +1,97 @@
-Privacy Policy
+Políticas de Privacidad
 
-Your privacy is critically important to us. At 1thrasher we have a few fundamental principles:
+Tu privacidad es muy importante para nosotros. En 1thrasher tenemos algunos principios fundamentales:
 
-  * We don't ask you for personal information unless we actually need it. 
-  * We don't share identifiable personal information with anyone except to comply with the law, develop our products, or
-    protect our rights.
-  * We aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept
-    private, and permanently deleted. Below is our privacy policy which incorporates these goals (thanks to Automattic.com
-    for their Creative Commons Sharealike license.)
+- No pedimos tu información personal al menos que realmente la necesitemos. 
+- No compartimos información personal con nadie excepto para cumplir con alguna ley, desarrollar productos o
+proteger nuestros derechos. 
+- Nosotros apuntamos a hacerlo lo más simple posible para ti: el controlar qué es visible al público, ver motores de búsqueda, mantener
+privacidad y eliminar permanentemente datos. Debajo está nuestra política de privacidad que incorpora estos objetivos (Gracias a
+Automattic.com por su política de Creative Commons Sharealike)
 
-If you have questions about deleting or correcting your personal data please contact our support team at hello@smallgroups.church.
+Si tienes preguntas sobre eliminar o corregir información personal por favor contactarse con el equipo de apoyo en
+ hello@smallgroups.church. 
 
-1thrasher, LLC (“1thrasher”) operates several websites including 1thrasher.com and Smallgroups.church.
-  It is 1thrasher’s policy to respect your privacy regarding any information we may collect while operating our websites.
+1thrasher, LLC (“1thrasher”) opera en varios sitios web incluyendo 1thrasher.com y Smallgroups.church. Es política de 1thrasher respetar
+ la privacidad en relación a cualquier información que podamos recopilar mientras operamos nuestros sitios web.
 
-Website Visitors
+Visitantes del Sitio Web 
 
-Like most website operators, 1thrasher collects non-personally-identifying information of the sort that web browsers and
-  servers typically make available, such as the browser type, language preference, referring site, and the date and time
-  of each visitor request. 1thrasher's purpose in collecting non-personally identifying information is to better understand
-  how 1thrasher's visitors use its website. From time to time, 1thrasher may release non-personally-identifying information
-  in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Como la mayoría de operadores de sitio web, 1thrasher recopila información de identificación no personal del tipo que los navegadores y
+ servidores web suelen ofrecer, como el tipo de navegador, preferencia de idioma, sitio de referencia y la fecha y hora de cada solicitud
+ de visitante. El propósito de 1thrasher en recopilar información que no es de identificación personal es comprender mejor cómo los
+ visitantes de 1thrasher usan su sitio web. De vez en cuando, 1thrasher puede revelar información que no sea de identificación personal en
+ conjunto, por ejemplo, mediante la publicación de un informe sobre las tendencias en el uso de su sitio web.
 
-1thrasher also collects potentially personally-identifying information like Internet Protocol (IP) addresses for Smallgroups.church
-  users. 1thrasher only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying
-  information as described below, except that IP addresses and email addresses may be visible and disclosed to the administrators
-  of website.
+1thrasher también recopila información potencialmente de identificación personal, como las direcciones de Protocolo de Internet (IP) de
+ los usuarios de Smallgroups.church. 1thrasher solo revela las direcciones IP de los usuarios registradas bajo las mismas circunstancias
+ que usa y revela información personal como se describe a continuación, a excepción de las direcciones IP y las direcciones de correo
+ electrónico que son visibles a los administradores del sitio web.
 
-Gathering of Personally-Identifying Information
+Recopilación de información de identificación personal
 
-Certain visitors to 1thrasher’s websites choose to interact with 1thrasher in ways that require 1thrasher to gather personally-identifying
-  information. The amount and type of information that 1thrasher gathers depends on the nature of the interaction. For
-  example, we ask visitors who sign up for an account at Smallgroups.church to provide a username and email address. Those
-  who engage in transactions with 1thrasher may be asked to provide additional information, including as necessary the
-  personal and financial information required to process those transactions. In each case, 1thrasher collects such information
-  only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with 1thrasher. 1thrasher
-  does not disclose personally-identifying information other than as described below. And visitors can always refuse to
-  supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related
-  activities.
+Ciertos visitantes de los sitios web de 1thrasher optan por interactuar con 1thrasher de maneras que requieren que 1thrasher recopile
+ información de identificación personal. La cantidad y el tipo de información que 1thrasher reúne depende de la naturaleza de la
+ interacción. Por ejemplo, les pedimos a los visitantes que registran una cuenta en Smallgroups.church que provean de un nombre de usuario
+ y un correo electrónico. 
 
-Aggregated Statistics
+Aquellos que realicen transacciones con 1thrasher pueden solicitar información adicional, incluida la información personal y financiera
+ necesaria para procesar esas transacciones. En cada caso, 1thrasher recopila dicha información solo a medida que sea necesario o
+ apropiado para cumplir el propósito de la interacción del visitante con 1thrasher. 1thrasher no revela información de identificación 
+ personal que no sea la que se describe a continuación. Y los visitantes siempre pueden negarse a proporcionar información de 
+ identificación personal, con la advertencia de que puede evitar que participen en ciertas actividades relacionadas con el sitio web.
 
-1thrasher may collect statistics about the behavior of visitors to its websites. For instance, 1thrasher may monitor the
-  most popular groups on the Smallgroups.church site or use spam screening services to help identify spam. 1thrasher may
-  display this information publicly or provide it to others. However, 1thrasher does not disclose personally-identifying
-  information other than as described below.
+Estadísticas agregadas
 
-Protection of Certain Personally-Identifying Information
+1thrasher puede recopilar estadísticas sobre el comportamiento de los visitantes de sus sitios web. Por ejemplo, 1thrasher puede controlar
+ los grupos más populares en el sitio Smallgroups.church o utilizar servicios de detección de spam para ayudar a identificar el spam.
+ 1thrasher puede mostrar esta información públicamente o proporcionarla a otros. Sin embargo, 1thrasher no puede revelar información de
+ identificación personal distinta a la descrita a continuación.
 
-1thrasher discloses potentially personally-identifying and personally-identifying information only to those of its employees,
-  contractors and affiliated organizations that (i) need to know that information in order to process it on 1thrasher’s
-  behalf or to provide services available at 1thrasher’s websites, and (ii) that have agreed not to disclose it to others.
-  Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using
-  1thrasher’s websites, you consent to the transfer of such information to them. 1thrasher will not rent or sell potentially
-  personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and
-  affiliated organizations, as described above, 1thrasher discloses potentially personally-identifying and personally-identifying
-  information only in response to a subpoena, court order or other governmental request, or when 1thrasher believes in
-  good faith that disclosure is reasonably necessary to protect the property or rights of 1thrasher, third parties or the
-  public at large. If you are a registered user of an 1thrasher website and have supplied your email address, 1thrasher
-  may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date
-  with what’s going on with 1thrasher and our products. If you send us a request (for example via a support email or via
-  one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request
-  or to help us support other users. 1thrasher takes all measures reasonably necessary to protect against the unauthorized
-  access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Protección de cierta información de identificación personal
+
+1thrasher divulga información que potencialmente identifica personalmente a las personas a sus empleados, contratistas y organizaciones
+ afiliadas que (i) necesitan saber esta información para procesarla en nombre de 1thrasher o para proporcionar servicios disponibles en
+ los sitios web de 1thrasher y ( ii) que han acordado no divulgarlo a terceros.
+
+Algunos de esos empleados, contratistas y organizaciones afiliadas pueden ubicarse fuera de su país de origen; Al usar los sitios web de
+ 1thrasher, usted acepta la transferencia de dicha información a ellos. 1thrasher no alquilará ni venderá potencialmente información de
+ identificación personal a nadie. Además de sus empleados, contratistas y organizaciones afiliadas, como se describe anteriormente,
+ 1thrasher puede divulgar información de identificación personal solo en respuesta a una citación, orden judicial u otra solicitud
+ gubernamental, o cuando 1thrasher cree de buena fe que la divulgación es razonablemente necesario para proteger la propiedad o los
+ derechos de 1thrasher, terceros o el público en general. Si usted es un usuario registrado de un sitio web 1thrasher y ha proporcionado
+ su dirección de correo electrónico, 1thrasher ocasionalmente puede enviarle un correo electrónico para informarle sobre nuevas funciones,
+ solicitar su opinión o simplemente mantenerlo actualizado con lo que está sucediendo con 1thrasher y nuestro productos. Si nos envía una
+ solicitud (por ejemplo, a través de un correo electrónico de soporte o mediante uno de nuestros mecanismos de comentarios), nos
+ reservamos el derecho de publicarlo para ayudarnos a aclarar o responder a su solicitud o para ayudarnos a apoyar a otros usuarios.
+ 1thrasher toma todas las medidas razonablemente necesarias para luchar contra el acceso no autorizado, el uso, la alteración o la
+ destrucción de información de identificación personal.
 
 Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides
-  to the website each time the visitor returns. 1thrasher uses cookies to help 1thrasher identify and track visitors, their
-  usage of 1thrasher website, and their website access preferences. 1thrasher visitors who do not wish to have cookies
-  placed on their computers should set their browsers to refuse cookies before using 1thrasher’s websites, with the drawback
-  that certain features of 1thrasher’s websites may not function properly without the aid of cookies.
+Un cookie es una cadena de información que un sitio web almacena en la computadora de un visitante, y que el navegador del visitante
+ proporciona al sitio web cada vez que regrese el visitante. 1thrasher usa cookies para ayudar a 1thrasher a identificar y rastrear a los
+ visitantes, su uso del sitio web 1thrasher y las preferencias de acceso a su sitio web. Los visitantes de 1thrasher que no desean tener
+ cookies colocados en sus computadoras deben configurar sus navegadores para rechazar las cookies antes de usar los sitios web de
+ 1thrasher, con el inconveniente que ciertas características de los sitios web de 1thrasher pueden no funcionar correctamente sin la ayuda
+ de cookies.
 
-Business Transfers
+Transferencias empresariales
 
-If 1thrasher, or substantially all of its assets, were acquired, or in the unlikely event that 1thrasher goes out of business
-  or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You
-  acknowledge that such transfers may occur, and that any acquirer of 1thrasher may continue to use your personal information
-  as set forth in this policy.
+Si 1thrasher, o todos sus activos, fueran adquiridos, o en el improbable caso de que 1thrasher quede fuera del negocio o entre en
+ bancarrota, la información del usuario sería uno de los activos que es transferido o adquirido por un tercero. Usted reconoce que tales
+ transferencias pueden ocurrir, y que cualquier comprador de 1thrasher puede continuar usando su información personal como se establece en
+ esta política.
 
-Ads
+Anuncios
+Los anuncios que aparecen en cualquiera de nuestros sitios web pueden ser entregados a los usuarios por los socios publicitarios, que
+ pueden establecer cookies. Estas cookies permita que el servidor de publicidad reconocer su computadora cada vez que le envíen un anuncio
+ en línea para compilar información sobre usted u otras personas que usan su computadora. Esta información permite a las redes =
+ publicitarias, entre otras cosas, entregar anuncios objetivos que creen serán de su mayor interés. Esta política de privacidad cubre el
+ uso de cookies por 1thrasher y no cubre el uso de cookies por parte de ningún anunciante.
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies
-  allow the ad server to recognize your computer each time they send you an online advertisement to compile information
-  about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted
-  advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by 1thrasher
-  and does not cover the use of cookies by any advertisers.
+Cambios de la política de privacidad
 
-Privacy Policy Changes
-
-1thrasher may change its Privacy Policy from time to time, and in 1thrasher’s sole discretion.
-  1thrasher encourages visitors to frequently check this page for any changes to its Privacy Policy. 
-  Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+1thrasher puede cambiar su política de privacidad cada cierto tiempo, and in 1thrasher’s sole discretion.
+1thrasher anima a los visitantes a que revisen frecuentemente esta página por cualquier cambio de la política de privacidad.
+Su uso continuo de este sitio después de cualquier cambio en esta Política de Privacidad constituirá su aceptación de dicho cambio.
