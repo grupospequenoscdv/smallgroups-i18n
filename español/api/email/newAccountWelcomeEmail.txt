@@ -1,14 +1,14 @@
-Welcome {{toName}}!
+Bienvenido {{toName}}!
 
-You've just taken an important step towards building better relationships through small groups. Now, use Smallgroups.church to search for and create small groups.
+Acabas de tomar un paso importante hacia construir mejores relaciones desde los grupos pequeños. Ahora usa Smallgroups.church para buscar y crear grupos pequeños.
 
-  Search for Groups » {{siteURL}}/find
-  Easily find groups at your church. Narrow groups down by men, women, and more.
+Búsqueda de Grupos » {{siteURL}}/encuentra
+Encuentra fácilmente grupos pequeños en tu iglesia. Segmento grupos por mujeres, hombres y más.   
 
-  Create a Group » {{siteURL}}/groups/create
-  Want to be a leader? It only takes two minutes to create your own group.
+Crea un Grupo Pequeños » {{siteURL}}/grupos/crear
+¿Quieres ser un líder? Solo toma dos minutos crear tu propio grupo.  
 
-  If you are a pastor or small group administrator, add your church. » {{siteURL}}/create-church
+Si eres un pastor o coordinador de grupos pequeños, agrega a tu iglesia. » {{siteURL}}/crea-iglesia
 
-We’re excited to help you grow through small groups!
-The Smallgroups.church team
+Estamos emocionados de ayudarte a crecer a través de grupos pequeños! 
+El equipo de Smallgroups.church 
