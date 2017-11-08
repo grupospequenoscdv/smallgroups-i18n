@@ -1,3 +1,3 @@
-Hi {{toName}}, your small group has been created and is awaiting approval. Stay tuned for an email from your church. 
+Hola {{toName}}, tu grupo pequeños ha sido creado y está a la espera que sea aprobado. Mantente a la espera de un email de tu iglesia.
 
-No action is necessary.
+No requiere de una acción 
