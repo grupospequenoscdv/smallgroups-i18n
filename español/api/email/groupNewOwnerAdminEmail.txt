@@ -1,11 +1,11 @@
-Hi {{toName}}, {{leaderName}} has transfered the following group to {{newLeaderName}} {{newLeaderEmail}}:
+Hola {{toName}}, {{leaderName}} ha transferido el siguiente grupo a {{newLeaderName}} {{newLeaderEmail}}:
 
   {{group.name}}
   
   {{group.descript}}
 
-  Who: {{group.who}}
-  What: {{group.what}}
-  Church Campus: {{group.campus}}
+  Quién: {{group.who}}
+  Qué: {{group.what}}
+  Sede/Campus: {{group.campus}}
 
 The Smallgroups.church team
