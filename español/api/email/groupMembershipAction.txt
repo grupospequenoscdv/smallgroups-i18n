@@ -1,9 +1,9 @@
-Hi {{toName}}, {{fromName}} {{#if approved}}has accepted your small group invitation and is now a member!{{else}}has declined the invitation to your small group.{{/if}}
+Hola {{toName}}, {{fromName}} {{#if approved}} ha aceptado tu invitación a tu grupo pequeño y ahora es un participante! {{else}} ha rechazado la invitación a tu grupo pequeño.{{/if}}
 
   {{group.name}}
   
   {{group.descript}}
 
-  Who: {{group.who}}
-  What: {{group.what}}
-  Church Campus: {{group.campus}}
+Quién: {{group.who}}
+Qué: {{group.what}}
+Sede/Campus: {{group.campus}}
