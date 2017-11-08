@@ -1,11 +1,11 @@
-Hi {{toName}}, {{fromName}} has submitted the following group for approval. Please visist {{siteURL}} to view the group and approve/deny it.
+Hola {{toName}}, {{fromName}} se ha registrado el siguiente grupo para que sea aprobado. Por favor visita {{siteURL}} para ver el grupo y aprobarlo/ rechazarlo.
 
   {{group.name}}
   
   {{group.descript}}
 
-  Who: {{group.who}}
-  What: {{group.what}}
-  Church Campus: {{group.campus}}
+  Quién: {{group.who}}
+  Qué: {{group.what}}
+  Sede/Campus: {{group.campus}}
 
-The Smallgroups.church team
+El equipo de Smallgroups.church 
