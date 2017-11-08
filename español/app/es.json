@@ -148,7 +148,7 @@
     },
     "LOGGED-IN": {
       "TITLE": "Conectado",
-      "MESSAGE": "Hola {{nombre}}, ya estás conectado.",
+      "MESSAGE": "Hola {{name}}, ya estás conectado.",
       "LOGOUT-BTN": "Cerrar Sesión",
       "LOGGING-IN": "Iniciar Sesión..."
     },
@@ -342,7 +342,7 @@
       },
       "DIRECTORY": {
         "TITLE": "Directorio de Grupos",
-        "DESCRIPT": "Filtra y ve los grupos actuales listados por {{nombre}}.",
+        "DESCRIPT": "Filtra y ve los grupos actuales listados por {{name}}.",
         "BTN-VIEW": "Encuentra un Grupo"
       },
       "CREATE": {
@@ -477,10 +477,10 @@
         "BOX4-HEADING": "Registra un Grupo",
         "BOX4-P1": "¿Estás liderando un grupo?",
         "BOX4-BTN": "Crea tu grupo",
-        "BOX4-P2": "Actualmente, tienes {{grupos}} disponibles en el directorio de grupos.",
+        "BOX4-P2": "Actualmente, tienes {{groups}} disponibles en el directorio de grupos.",
         "BOX5-HEADING": "Aprobar Grupos",
         "BOX5-P1": "Sólo los grupos aprobados por un administrador aparecerán en el directorio de grupos.",
-        "BOX5-P2": "Hay {{grupos}} grupos en espera de aprobación.",
+        "BOX5-P2": "Hay {{groups}} grupos en espera de aprobación.",
         "BOX5-BTN": "Administrar Grupos",
         "BOX6-HEADING": "Compartir tus Grupos Pequeños",
         "BOX6-P1": "La dirección web directa al directorio de grupos pequeños de tu iglesia es:",
@@ -776,11 +776,11 @@
       "CONTACT-NAME-HELP": "Tu nombre es obligatorio",
       "CONTACT-EMAIL-HELP": "Tu correo electrónico es obligatorio",
       "CONTACT-MSG-TITLE": "Mensaje:",
-      "CONTACT-MSG": "Hola, tengo una pregunta sobre tu grupo pequeño, {{Nombre}}.",
+      "CONTACT-MSG": "Hola, tengo una pregunta sobre tu grupo pequeño, {{name}}.",
       "CONTACT-MSG-HELP": "Tu mensaje de contacto es obligatorio",
       "CONTACT-SENT": "Tu mensaje de contacto ha sido enviado.",
       "JOIN-TITLE": "Un paso más:",
-      "JOIN-PROMPT": "Qué información quieres compartir con el miembro de {{nombre}}?",
+      "JOIN-PROMPT": "Qué información quieres compartir con el miembro de {{name}}?",
       "JOIN-PRIVATE-EMAIL": "Privado – Solo el líder del grupo verá tu correo electrónico",
       "JOIN-PRIVATE-PHONE": "Privado – Solo el líder del grupo verá tu número telefónico",
       "JOIN-BTN": "Únete a un grupo!",
