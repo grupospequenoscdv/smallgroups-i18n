@@ -630,12 +630,12 @@
             "TITLE": "¿Cómo se usan las temporadas?",
             "P1": "Todas las iglesias inician con ciclo de vida de grupos pequeños que no tiene fin. Sin embargo, sino aplica a tu iglesia puedes eliminarlo.",
             "P2": "Los pastores crean una nueva temporada con las fechas de inicio y fin correspondientes.",
-            "P3": "Los líderes de grupo eligen la temporada apropiada cuando crean su lista de grupos. (Las temporadas pasadas ​​están ocultas a menos que estén marcados como "En curso".)"
+            "P3": "Los líderes de grupo eligen la temporada apropiada cuando crean su lista de grupos. (Las temporadas pasadas ​​están ocultas a menos que estén marcados como \"En curso\".)"
           },
           "POST": {
             "TITLE": "¿Cómo puedo publicar un anuncio en la parte superior de mi directorio?",
-            "P1": "Personalice su \ "Mensaje de Directorio Fijo\" en la página de Temporadas de Grupo.",
-            "P2": "Este mensaje se mostrará públicamente en tu directorio de grupos pequeños cuando cambie el mensaje \ "Mostrar mensaje? \" A Sí."
+            "P1": "Personalice su \"Mensaje de Directorio Fijo\" en la página de Temporadas de Grupo.",
+            "P2": "Este mensaje se mostrará públicamente en tu directorio de grupos pequeños cuando cambie el mensaje \"Mostrar mensaje? \" A Sí."
           },
           "PINNED": {
             "TITLE": "¿Qué puede incluir mi mensaje de directorio?",
@@ -643,7 +643,7 @@
           },
           "END": {
             "TITLE": "¿Qué pasa al final de la temporada?",
-            "P1": "Los grupos pequeños se archivarán automáticamente y se eliminarán del directorio público y se archivarán a la fecha que elija como la "Fecha de finalización del temporada". Le enviaremos un recordatorio para configurar la próxima temporada de grupos pequeños a medida que se acerque el final de la temporada actual ."
+            "P1": "Los grupos pequeños se archivarán automáticamente y se eliminarán del directorio público y se archivarán a la fecha que elija como la \"Fecha de finalización del temporada\". Le enviaremos un recordatorio para configurar la próxima temporada de grupos pequeños a medida que se acerque el final de la temporada actual ."
           },
           "DELETE": {
             "TITLE": "¿ debería eliminar los grupos anteriores?",
@@ -670,7 +670,7 @@
           "END-DATE": "Fecha de fin:",
           "ONGOING": "Continuará?",
           "REMOVE": "Eliminar",
-          "REMOVE-SEMESTER-PROMPT": "Estás intentando eliminar esta temporada. Si hay grupos aún asociados, se convertirán en \ "perdidos \" y, por lo tanto, deben ser reasignados ahora. (Ve al enlace "Grupos pequeños" de arriba, cambie a esta temporada, y asegúrese de que no haya grupos vinculados.) ¡Esto no se puede deshacer!",
+          "REMOVE-SEMESTER-PROMPT": "Estás intentando eliminar esta temporada. Si hay grupos aún asociados, se convertirán en \"perdidos \" y, por lo tanto, deben ser reasignados ahora. (Ve al enlace \"Grupos pequeños\" de arriba, cambie a esta temporada, y asegúrese de que no haya grupos vinculados.) ¡Esto no se puede deshacer!",
           "SERVER": {
             "REMOVE": {
               "SUCCESS": "La temporada ha sido eliminada",
@@ -700,7 +700,7 @@
         "TITLE": "Filtro de grupos",
         "PROMPT": "Las siguientes son listas de los filtros principales usados ​​para categorizar los grupos pequeños de tu iglesia. Estos filtros también se utilizan en el directorio público para ayudar a restringir la búsqueda de grupos.",
         "LABEL": "Etiqueta del filtro",
-        "REMOVE-FILTER-PROMPT": "Estás intentando quitar este filtro. Si hay grupos aún asociados con él, se convertirán en \"perdidos\" y, por lo tanto, deben ser reasignados ahora. (Ve al enlace "Grupos pequeños" de arriba y asegúrate de que no hay grupos asociados con este filtro de grupo.) ¡Esto no se puede deshacer!",
+        "REMOVE-FILTER-PROMPT": "Estás intentando quitar este filtro. Si hay grupos aún asociados con él, se convertirán en \"perdidos\" y, por lo tanto, deben ser reasignados ahora. (Ve al enlace \"Grupos pequeños\" de arriba y asegúrate de que no hay grupos asociados con este filtro de grupo.) ¡Esto no se puede deshacer!",
         "WHO": {
           "TITLE": "Quién"
         },
@@ -925,7 +925,7 @@
     },
     "Q3": {
       "QUEST": "¿Hay alguna trampa?",
-      "ANS1": "Nope. Podemos ofrecer servicios premium en el futuro, pero serás incluido en el plan "Gratis por siempre". Ninguna característica se quitará y se empaquetará en una oferta superior si han usado el sistema previamente.",
+      "ANS1": "Nope. Podemos ofrecer servicios premium en el futuro, pero serás incluido en el plan \"Gratis por siempre\". Ninguna característica se quitará y se empaquetará en una oferta superior si han usado el sistema previamente.",
       "ANS2A": "También hemos considerado la incorporación de anuncios seleccionados, cristianos apropiado en el sitio web y / o correos electrónicos. Deberíamos hacerlo, puedes estar seguro de que seremos 100% transparentes, ofreceremos la posibilidad de optar por",
       "ANS2B": "nunca venderemos ni compartiremos ningún dato personalmente identificable."
     },
@@ -933,7 +933,7 @@
       "QUEST": "¿Puedo crear los grupos o el líder del grupo tiene que hacerlo?",
       "ANS1": "Puedes hacerlo de cualquier manera, aunque te alentamos a fortalecer a tus líderes de grupo para que creen sus propios grupos.",
       "ANS2": "Si crea el grupo para sus líderes, puede invitar al líder del grupo a ser un co-líder del grupo. Una vez que se inscriban, tendrás la opción de transferir el grupo a ellos.",
-      "ANS3": "Pero, hemos encontrado que los líderes sentirán más \ "pertenencia\" si los líderes del grupo crean sus propios grupos. Ellos sentirán una sensación de propiedad sobre su grupo, ya que a medida que crezcan, estarás contento de que solo tengas que aprobar el grupo, no entrar para verificar todos los detalles para decenas o cientos de grupos."
+      "ANS3": "Pero, hemos encontrado que los líderes sentirán más \"pertenencia\" si los líderes del grupo crean sus propios grupos. Ellos sentirán una sensación de propiedad sobre su grupo, ya que a medida que crezcan, estarás contento de que solo tengas que aprobar el grupo, no entrar para verificar todos los detalles para decenas o cientos de grupos."
     },
     "Q5": {
       "QUEST": "¿Cada líder del grupo necesita tener privilegios administrativos?",
@@ -993,5 +993,6 @@
       "SET_GROUP_MEMBER_LEADERSHIP": {
         "LAST": "You may not remove your own group leadership unless you add another leader to the group with a valid email address."
       }
+    }
   }
 }
