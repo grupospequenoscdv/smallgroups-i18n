@@ -1,5 +1,5 @@
-Hi {{toName}}, to verify your email address, simply copy and paste the link below.
+Hola {{toName}}, para verificar tu correo electrónico, solo copia y pega el link que está abajo. 
 
 {{resetLink}}
 
-Thanks, the Smallgroups.church team
+Gracias, el equipo de Smallgroups.church 
