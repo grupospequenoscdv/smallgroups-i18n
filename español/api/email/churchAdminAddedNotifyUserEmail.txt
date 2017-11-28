@@ -1,7 +1,0 @@
-Hola {{toName}}, has sido agregado como administrador de {{churchName}} en Smallgroups.church.
-
-Tu puedes:
-Aprobar y administrar grupos ({{siteURL}}/iglesia/panel)
-Crear grupos ({{siteURL}}/crear-grupos)
-
-El equipo de Smallgroups.church 

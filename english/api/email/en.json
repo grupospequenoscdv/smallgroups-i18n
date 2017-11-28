@@ -1,0 +1,141 @@
+{
+  "sg": "Smallgroups.church",
+  "sgteam": "The Smallgroups.church team",
+  "hi": "Hi {{toName}},",
+  "no-action": "No action is necessary.",
+  "approve": "Approve",
+  "decline": "Decline",
+  "who": "Who",
+  "what": "What",
+  "church-campus": "Church Campus",
+  "respond-to": "Please respond to {{fromName}} at",
+  "churchAdminAddedNotifyAdminsEmail": {
+    "subject": "{{churchName}} Administration",
+    "p1": "A new administrator has been added to {{churchName}}.",
+    "p2a": "You can add or remove administrators at any time. Simply go to Church Settings > ",
+    "p2b": "Manage Administrators",
+    "p2c": " in your Smallgroups.church account."
+  },
+  "churchAdminAddedNotifyUserEmail": {
+    "subject": "{{churchName}} Administration",
+    "p1": "You’ve been added as a church administrator for {{churchName}} at Smallgroups.church.",
+    "p2a": "As an admin, you can:",
+    "p2b": "Approve and manage groups",
+    "p2c": "Create your own groups"
+  },
+  "churchAdminInvitationEmail": {
+    "subject": "{{churchName}} Administrator Invitation",
+    "p1": "{{churchName}} would like to add you as a small groups administrator on Smallgroups.church. To accept the invitation and create your account, please click the button below.",
+    "create-btn": "Create Your Account"
+  },
+  "contactChurchEmail": {
+    "subject": "Smallgroups.church contact request"
+  },
+  "emailAddressUpdated": {
+    "subject": "Your Smallgroups.church email address has been updated",
+    "p1a": "This is a confirmation to let you know your email address for ",
+    "p1b": " has been changed from {{oldEmail}} to {{newEmail}}."
+  },
+  "groupApprovalRequestEmail": {
+    "p1": "{{fromName}} has submitted the following group for approval. Click below to quickly approve or decline their group."
+  },
+  "groupCreatedEmail": {
+    "subject": "{{group.name}}: Created!",
+    "p1": "Your small group has been created and is awaiting approval. Stay tuned for an email from your church."
+  },
+  "groupJoinRequestEmail": {
+    "p1": "{{fromName}} is interested in joining your group:"
+  },
+  "groupLeaderContactEmail": {
+    "subject": "{{groupName}}: Contact request"
+  },
+  "groupMembershipAction": {
+    "subject": "Your group invitation was {{subject}}",
+    "approved": "has accepted your small group invitation and you are now a member!",
+    "declined": "has declined your request to the following group:"
+  },
+  "groupMembershipApprovedEmail": {
+    "subject": "Group membership approved!",
+    "p1": "{{leaderName}} has approved your request to join the following group:"
+  },
+  "groupMembershipDeclinedEmail": {
+    "subject": "Sorry, group membership declined",
+    "p1": "I'm sorry {{toName}}, but {{leaderName}} has declined your request to join {{group.name}} for the following reason:"
+  },
+  "groupNewLeaderAdminEmail": {
+    "subject": "You are now a small group leader!",
+    "subject-admin": "New Leader for {{group.name}}",
+    "p1": "{{leaderName}} added {{newLeaderName}} ({{newLeaderEmail}}) as a leader to the following group:"
+  },
+  "groupNewMembershipApprovalRequestEmail": {
+    "p1": "{{leaderName}} has invited you to join the following group:",
+    "join-group": "Join Group"
+  },
+  "groupNewOwnerAdminEmail": {
+    "subject": "You are now the primary small group leader!",
+    "subject-admin": "New Group Owner for {{group.name}}",
+    "p1": "{{leaderName}} has transfered the following group to {{newLeaderName}} ({{newLeaderEmail}}):"
+  },
+  "groupStatusUpdatedEmail": {
+    "subject": "Your group has been {{subject}}",
+    "steps": "Next steps:",
+    "step1": {
+      "title": "Pray.",
+      "descript": "Pray for the people who will come. Pray that God will use you in a powerful way as you lead."
+    },
+    "step2": {
+      "title": "Spread the word.",
+      "descript": "Invite your friends, neighbors, coworkers, and strangers to join your group. Don’t just expect people to show up -- they often need a personal invitation."
+    },
+    "step3": {
+      "title": "Prepare.",
+      "descript": "Be ready when your group launches. Preparing shows your group members that you care about them."
+    }
+  },
+  "groupUpdatedEmail": {
+    "subject": "",
+    "p1": "We wanted to let you know that {{fromName}} has edited this group:"
+  },
+  "newAccountWelcomeEmail": {
+    "subject": "Welcome to Smallgroups.church!",
+    "welcome": "Welcome {{toName}}!",
+    "p1": "You've just taken an important step towards building better relationships through small groups. Now, use Smallgroups.church to search for and create small groups.",
+    "step1": {
+      "title": "Search for Groups »",
+      "descript": "Easily find groups at your church. Narrow groups down by men, women, and more."
+    },
+    "step2": {
+      "title": "Create a Group »",
+      "descript": "Want to be a leader? It only takes two minutes to create your own group."
+    },
+    "step3": {
+      "a": "If you are a pastor or small group administrator, please ",
+      "b": "click here",
+      "c": " to add your church."
+    },
+    "excited": "We’re excited to help you grow through small groups!"
+  },
+  "newChurchCreatedEmail": {
+    "subject": "{{churchName}} has been created!",
+    "p1": "Hi {{toName}}, you’ve created {{churchName}} at Smallgroups.church.",
+    "steps": {
+      "title": "Your next steps:",
+      "link1": "Familiarize yourself with your church dashboard",
+      "link2": "Walk through the QuickStart Guide"
+    },
+    "questions": "Simply reply to this email if you have any questions!"
+  },
+  "passwordUpdated": {
+    "subject": "Your Smallgroups.church password has been updated",
+    "p1a": "This is a confirmation to let you know your password for ",
+    "p1b": " has been changed."
+  },
+  "resetPasswordRequestEmail": {
+    "subject": "How to reset your password on Smallgroups.church",
+    "p1": "To reset your password, simply click the link below."
+  },
+  "sendVerifyMyAddressEmail": {
+    "subject": "Smallgroups.church email verification",
+    "p1": "To verify your email address, simply click the link below."
+  }
+}

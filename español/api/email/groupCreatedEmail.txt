@@ -1,3 +1,0 @@
-Hola {{toName}}, tu grupo pequeños ha sido creado y está a la espera que sea aprobado. Mantente a la espera de un email de tu iglesia.
-
-No requiere de una acción 

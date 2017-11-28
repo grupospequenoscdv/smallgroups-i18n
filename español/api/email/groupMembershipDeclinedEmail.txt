@@ -1,5 +1,0 @@
-Lo siento {{toName}}, pero {{leaderName}} ha rechazado tu solicitud de unirte a {{group.name}} en esta temporada:
-
-  {{reason}}
-
-El equipo de Smallgroups.church 

@@ -1,8 +1,0 @@
-Hola {{toName}}, acabas de crear {{churchName}} en Smallgroups.church.
-
-Tus siguientes pasos:
-  Familiarizate con el panel de tu iglesia ({{siteURL}}/iglesia)
-  Revisar la Guía de Inicio Rápido ({{siteURL}}/iglesia/recursos)
-
-Responde este correo si tienes preguntas! 
-El equipo de Smallgroups.church

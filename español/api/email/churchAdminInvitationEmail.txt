@@ -1,5 +1,0 @@
-{{churchName}} le gustaría agregarte como administrador de grupos pequeños en Smallgroups.church. Para aceptar la invitación y crear tu cuenta, copia y pega el link abajo.
-
-  {{siteURL}}/crear-cuenta-adm
-
-El equipo de Smallgroups.church 

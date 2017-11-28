@@ -1,5 +1,0 @@
-Hola {{toName}}, para verificar tu correo electrónico, solo copia y pega el link que está abajo. 
-
-{{resetLink}}
-
-Gracias, el equipo de Smallgroups.church 

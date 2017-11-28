@@ -1,3 +1,0 @@
-Hi {{toName}}, your small group has been created and is awaiting approval. Stay tuned for an email from your church. 
-
-No action is necessary.

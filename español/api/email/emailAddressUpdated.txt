@@ -1,3 +1,0 @@
-Hola {{toName}}, esta es la confirmación de aviso que tu email en Smallgroups.church ha sido cambiada de {{oldEmail}} a {{newEmail}}. 
-
-No requiere de una acción 
