@@ -1,141 +1,141 @@
 {
   "sg": "Smallgroups.church",
-  "sgteam": "The Smallgroups.church team",
-  "hi": "Hi {{toName}},",
-  "no-action": "No action is necessary.",
-  "approve": "Approve",
-  "decline": "Decline",
-  "who": "Who",
-  "what": "What",
-  "church-campus": "Church Campus",
-  "respond-to": "Please respond to {{fromName}} at",
+  "sgteam": "El equipo de Smallgroups.church",
+  "hi": "Hola {{toName}},",
+  "no-action": "No requiere acción.",
+  "approve": "Aprobado",
+  "decline": "Rechazado",
+  "who": "Quien",
+  "what": "Que",
+  "church-campus": "Sede de la iglesia",
+  "respond-to": "Por favor responder a {{fromName}} en",
   "churchAdminAddedNotifyAdminsEmail": {
-    "subject": "{{churchName}} Administration",
-    "p1": "A new administrator has been added to {{churchName}}.",
-    "p2a": "You can add or remove administrators at any time. Simply go to Church Settings > ",
-    "p2b": "Manage Administrators",
-    "p2c": " in your Smallgroups.church account."
+    "subject": "Administración de {{churchName}}",
+    "p1": "Un nuevo administrador ha sido agregado a {{churchName}}.",
+    "p2a": "Puedes agregar o eliminar administradores en cualquier momento. Ve a Configuración de Iglesia > ",
+    "p2b": "Administrar administradores",
+    "p2c": " en tu cuenta de Smallgroups.church."
   },
   "churchAdminAddedNotifyUserEmail": {
-    "subject": "{{churchName}} Administration",
-    "p1": "You’ve been added as a church administrator for {{churchName}} at Smallgroups.church.",
-    "p2a": "As an admin, you can:",
-    "p2b": "Approve and manage groups",
-    "p2c": "Create your own groups"
+    "subject": "Administración de {{churchName}}",
+    "p1": "Has sido agregado como administrador de {{churchName}} en Smallgroups.church.",
+    "p2a": "Como administrador pues:",
+    "p2b": "Aprobar y administrar grupos",
+    "p2c": "Crear tus propios grupos"
   },
   "churchAdminInvitationEmail": {
-    "subject": "{{churchName}} Administrator Invitation",
-    "p1": "{{churchName}} would like to add you as a small groups administrator on Smallgroups.church. To accept the invitation and create your account, please click the button below.",
-    "create-btn": "Create Your Account"
+    "subject": "Invitación de administrador {{churchName}}",
+    "p1": "{{churchName}} le gustaría agregarte como administrator de grupos pequeños de Smallgroups.church. Para aceptar la invitación y crear tu cuenta, da click debajo.",
+    "create-btn": "Crea tu cuenta"
   },
   "contactChurchEmail": {
-    "subject": "Smallgroups.church contact request"
+    "subject": "Solicitud de contacto de Smallgroups.church"
   },
   "emailAddressUpdated": {
-    "subject": "Your Smallgroups.church email address has been updated",
-    "p1a": "This is a confirmation to let you know your email address for ",
-    "p1b": " has been changed from {{oldEmail}} to {{newEmail}}."
+    "subject": "Tu correo en Smallgroups.church ha sido actualizado",
+    "p1a": "Esta es una confirmación para avisarte que tu correo",
+    "p1b": " ha sido cambiado de {{oldEmail}} a {{newEmail}}."
   },
   "groupApprovalRequestEmail": {
-    "p1": "{{fromName}} has submitted the following group for approval. Click below to quickly approve or decline their group."
+    "p1": "{{fromName}} ha registrado el siguiente grupo para ser aprobado. Da click debajo para aprobar o rechazar el grupo."
   },
   "groupCreatedEmail": {
-    "subject": "{{group.name}}: Created!",
-    "p1": "Your small group has been created and is awaiting approval. Stay tuned for an email from your church."
+    "subject": "{{group.name}}: Creado!",
+    "p1": "Tu grupo pequeño ha sido creado y está en lista de espera para ser aprobado. Está atento a un correo de tu iglesia."
   },
   "groupJoinRequestEmail": {
-    "p1": "{{fromName}} is interested in joining your group:"
+    "p1": "{{fromName}} está interesado en unirse a tu grupo pequeño:"
   },
   "groupLeaderContactEmail": {
-    "subject": "{{groupName}}: Contact request"
+    "subject": "{{groupName}}: Solicitud de contacto"
   },
   "groupMembershipAction": {
-    "subject": "Your group invitation was {{subject}}",
-    "approved": "has accepted your small group invitation and you are now a member!",
-    "declined": "has declined your request to the following group:"
+    "subject": "La invitación del grupo {{subject}}",
+    "approved": "ha aceptado tu invitación y ahora es un participante!",
+    "declined": "ha rechazado tu solicitud al grupo:"
   },
   "groupMembershipApprovedEmail": {
-    "subject": "Group membership approved!",
-    "p1": "{{leaderName}} has approved your request to join the following group:"
+    "subject": "Sé aprobó tu solicitud!",
+    "p1": "{{leaderName}} tu solicitud para unirte al grupo ha sido aprobada:"
   },
   "groupMembershipDeclinedEmail": {
-    "subject": "Sorry, group membership declined",
-    "p1": "I'm sorry {{toName}}, but {{leaderName}} has declined your request to join {{group.name}} for the following reason:"
+    "subject": "Lo sentimos, tu solicitud ha sido rechazada,",
+    "p1": "Lo sentimos  {{toName}}, pero {{leaderName}} rechazó tu solicitud de unirte a {{group.name}} en esta temporada:"
   },
   "groupNewLeaderAdminEmail": {
-    "subject": "You are now a small group leader!",
-    "subject-admin": "New Leader for {{group.name}}",
-    "p1": "{{leaderName}} added {{newLeaderName}} ({{newLeaderEmail}}) as a leader to the following group:"
+    "subject": "Ahora eres un líder de grupos pequeños!",
+    "subject-admin": "Nuevo Líder para {{group.name}}",
+    "p1": "{{leaderName}} agregó {{newLeaderName}} ({{newLeaderEmail}}) como líder del grupo:"
   },
   "groupNewMembershipApprovalRequestEmail": {
-    "p1": "{{leaderName}} has invited you to join the following group:",
-    "join-group": "Join Group"
+    "p1": "{{leaderName}} te ha invitado a que te unas al siguiente grupo:",
+    "join-group": "Únete al grupo"
   },
   "groupNewOwnerAdminEmail": {
-    "subject": "You are now the primary small group leader!",
-    "subject-admin": "New Group Owner for {{group.name}}",
-    "p1": "{{leaderName}} has transfered the following group to {{newLeaderName}} ({{newLeaderEmail}}):"
+    "subject": "Ahora eres el líder del grupo pequeño!",
+    "subject-admin": "Nuevo Encargado del grupo {{group.name}}",
+    "p1": "{{leaderName}} ha transferido el grupo a {{newLeaderName}} ({{newLeaderEmail}}):"
   },
   "groupStatusUpdatedEmail": {
-    "subject": "Your group has been {{subject}}",
-    "steps": "Next steps:",
+    "subject": "Tu grupo ha sido {{subject}}",
+    "steps": "Siguientes Pasos:",
     "step1": {
-      "title": "Pray.",
-      "descript": "Pray for the people who will come. Pray that God will use you in a powerful way as you lead."
+      "title": "Orar.",
+      "descript": "Ora por quienes vendrán. Ora porque seas usado poderosamente como líder."
     },
     "step2": {
-      "title": "Spread the word.",
-      "descript": "Invite your friends, neighbors, coworkers, and strangers to join your group. Don’t just expect people to show up -- they often need a personal invitation."
+      "title": "Pasa la voz.",
+      "descript": "Invita a tus amigos, vecinos, compañeros de trabajo o cualquier personas para que se una a tu grupo. No esperar que la gente aparezca por si sola - Normalmente necesitan una invitación personal."
     },
     "step3": {
-      "title": "Prepare.",
-      "descript": "Be ready when your group launches. Preparing shows your group members that you care about them."
+      "title": "Prepárate.",
+      "descript": "Está listo para cuando tu grupo inicie. La preparación muestra a los participantes de tu grupo que son importantes para ti."
     }
   },
   "groupUpdatedEmail": {
     "subject": "",
-    "p1": "We wanted to let you know that {{fromName}} has edited this group:"
+    "p1": "Queremos avisarte que  {{fromName}} ha editado este grupo:"
   },
   "newAccountWelcomeEmail": {
-    "subject": "Welcome to Smallgroups.church!",
-    "welcome": "Welcome {{toName}}!",
-    "p1": "You've just taken an important step towards building better relationships through small groups. Now, use Smallgroups.church to search for and create small groups.",
+    "subject": "Bienvenido a Smallgroups.church!",
+    "welcome": "Bienvenido {{toName}}!",
+    "p1": "Has tomado un Paso importante en construir mejores relaciones desde grupos pequeños. Ahora usa Smallgroups.church  para buscar y crear grupos pequeños.",
     "step1": {
-      "title": "Search for Groups »",
-      "descript": "Easily find groups at your church. Narrow groups down by men, women, and more."
+      "title": "Busca por Grupos »",
+      "descript": "Encuentra fácilmente grupos en tu iglesia. Filtra grupos por hombres, mujeres, edades y más."
     },
     "step2": {
-      "title": "Create a Group »",
-      "descript": "Want to be a leader? It only takes two minutes to create your own group."
+      "title": "Crea un Grupo »",
+      "descript": "¿Quieres ser un líder? Solo toma dos minutos crear tu propio grupo."
     },
     "step3": {
-      "a": "If you are a pastor or small group administrator, please ",
-      "b": "click here",
-      "c": " to add your church."
+      "a": "Si eres un pastor o administrador de grupos pequeños, por favor",
+      "b": "da click aquí",
+      "c": " para agregar tu iglesia."
     },
-    "excited": "We’re excited to help you grow through small groups!"
+    "excited": "Estamos emocionados de ayudarte a crecer a través de grupos pequeños!"
   },
   "newChurchCreatedEmail": {
-    "subject": "{{churchName}} has been created!",
-    "p1": "Hi {{toName}}, you’ve created {{churchName}} at Smallgroups.church.",
+    "subject": "{{churchName}} ha sido creado!",
+    "p1": "Hi {{toName}}, has creado {{churchName}} en Smallgroups.church.",
     "steps": {
-      "title": "Your next steps:",
-      "link1": "Familiarize yourself with your church dashboard",
-      "link2": "Walk through the QuickStart Guide"
+      "title": "Tus siguientes pasos:",
+      "link1": "Familiarízate con el panel de administrator de tu iglesia",
+      "link2": "Revisa la Guía de Inicia Rápida"
     },
-    "questions": "Simply reply to this email if you have any questions!"
+    "questions": "Responde este mail si tienes preguntas!"
   },
   "passwordUpdated": {
-    "subject": "Your Smallgroups.church password has been updated",
-    "p1a": "This is a confirmation to let you know your password for ",
-    "p1b": " has been changed."
+    "subject": "Tu contraseña de Smallgroups.church ha sido actualizada",
+    "p1a": "Esta es una confirmación para avisarte que tu contraseña ",
+    "p1b": " ha sido cambiada."
   },
   "resetPasswordRequestEmail": {
-    "subject": "How to reset your password on Smallgroups.church",
-    "p1": "To reset your password, simply click the link below."
+    "subject": "Cómo restablecer tu contraseña en Smallgroups.church",
+    "p1": "Para restablecer tu contraseña da click debajo."
   },
   "sendVerifyMyAddressEmail": {
-    "subject": "Smallgroups.church email verification",
-    "p1": "To verify your email address, simply click the link below."
+    "subject": "Email de Verificación de Smallgroups.church ",
+    "p1": "Para verificar tu email da click debajo."
   }
 }
