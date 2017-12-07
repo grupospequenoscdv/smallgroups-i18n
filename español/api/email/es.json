@@ -33,7 +33,7 @@
   },
   "emailAddressUpdated": {
     "subject": "Tu correo en Smallgroups.church ha sido actualizado",
-    "p1a": "Esta es una confirmación para avisarte que tu correo",
+    "p1a": "Esta es una confirmación para avisarte que tu correo ",
     "p1b": " ha sido cambiado de {{oldEmail}} a {{newEmail}}."
   },
   "groupApprovalRequestEmail": {
@@ -109,7 +109,7 @@
       "descript": "¿Quieres ser un líder? Solo toma dos minutos crear tu propio grupo."
     },
     "step3": {
-      "a": "Si eres un pastor o administrador de grupos pequeños, por favor",
+      "a": "Si eres un pastor o administrador de grupos pequeños, por favor ",
       "b": "da click aquí",
       "c": " para agregar tu iglesia."
     },
@@ -135,7 +135,7 @@
     "p1": "Para restablecer tu contraseña da click debajo."
   },
   "sendVerifyMyAddressEmail": {
-    "subject": "Email de Verificación de Smallgroups.church ",
+    "subject": "Email de Verificación de Smallgroups.church",
     "p1": "Para verificar tu email da click debajo."
   }
 }
