@@ -203,7 +203,7 @@
     "RESEND-EMAIL": "Reenviar Invitación por Correo",
     "ROSTER-REMOVE-MEMBER-PROMPT": "Estás intentando eliminar a este usuario de tu grupo",
     "CANCEL-MEMBERSHIP-REQUEST": "Cancel request for membership",
-    "CANCEL-MEMBERSHIP-REQUEST-PROMPT": "You're attempting to delete your request for membership in this group.",
+    "CANCEL-MEMBERSHIP-REQUEST-PROMPT": "Estás intentando eliminar tu solicitud para unirte a este grupo.",
     "YES-DELETE": "Si, eliminar",
     "NO-CANCEL": "No, cancelar",
     "WHY": "¿Porqué?",
@@ -363,7 +363,7 @@
       "HOSTING-DESCRIPT": "Liderar tu propio grupo es fácil. Toma unos minutos para completar este formulario y, una vez aprobado, tu grupo aparecerá en el directorio de grupos pequeños.",
       "HELP": "Necesitas ayuda con el formulario?",
       "LINK-GUIDE": "Ve la guía del líder",
-      "FORM-FIELDS-REQD": "All fields are required.",
+      "FORM-FIELDS-REQD": "Todos los campos son requeridos.",
       "FORM-TITLE": "Completa esta formulario para registrad tu grupo:",
       "FORM-TITLE-EDIT": "Completa el siguiente formulario para actualizar este grupo:",
       "FORM-SELECT-ONE": "(Selecciona Uno)",
@@ -420,12 +420,12 @@
     "DASHBOARD": {
       "TITLE": "Panel",
       "VIEW-ALL": "Ver todo",
-      "TOTAL-LEADERS": "Approved Leaders",
-      "TOTAL-MEMBERS": "Approved Members",
-      "TOTAL-GROUPS": "Approved Groups",
+      "TOTAL-LEADERS": "Líderes Aprobados",
+      "TOTAL-MEMBERS": "Miembros Aprobados",
+      "TOTAL-GROUPS": "Groups Aprobados",
       "PENDING": "Pendientes",
-      "LISTED": "Listed",
-      "LISTED-DIR": "Listed in Directory",
+      "LISTED": "Listado,
+      "LISTED-DIR": "Listado en el Directorio",
       "UNLISTED": "Privados",
       "PENDING-GROUPS": "Grupos Pendientes:"
     },
@@ -739,7 +739,7 @@
         "GROUPS": {
           "TITLE": "Grupos Pequeños",
           "DESCRIPT": "Descarga toda la información de tus grupos pequeños.",
-          "INCLUDES": "Includes: Campus Name, Semester, Name, Description, Who, What, Days, Time, Ages, Childcare Provided, Address Hidden, Address Street1, Address Street2, Address City, Address State, Address Zip, Status, Visible In Directory, Primary Leader Name, Primary Leader Email, Primary Leader Phone, Created Date."
+          "INCLUDES": "Include: Nombre de Sede, Temporada, Nombre, Descripción, Quién, Qué, Días, Tiempo, Edades, Dirección Oculta, Dirección Calle1, Dirección Calle1, Dirección Ciudad, Dirección Estado/Provincia/Región, Dirección Código Postal , Estado, Visible en el Directorio, Nombre del Líder Principal, Correo del Líder Principal, Teléfono del Líder Principal, Fecha de Creación."
         },
         "LEADERS": {
           "TITLE": "Líderes de grupo",
@@ -757,16 +757,16 @@
 
   "DIRECTORY": {
     "FILTERS": {
-      "GROUPS-FOUND": "Encontrar grupo",
-      "DAY": "Cualquier día",
-      "WHO": "Quien",
-      "WHAT": "Que",
+      "GROUPS-FOUND": "Encontrar Grupo",
+      "DAY": "Cualquier Día",
+      "WHO": "Quién",
+      "WHAT": "Qué",
       "AGE": "Cualquier edad",
       "CHILDCARE-ANY": "Cuidado de niños",
       "CHILDCARE-NO": "Sin cuidado de niños",
       "CHILDCARE-YES": "Con cuidado de niños",
-      "ZIP": "Código postal",
-      "ZIP-WITHIN": "Incluir código postal"
+      "ZIP": "Código Postal",
+      "ZIP-WITHIN": "Incluir Código Postal"
     },
     "LIST": {
       "INTERESTED": "Estoy interesado",
@@ -848,14 +848,14 @@
       "SUBTITLE": "Únete a cientos de pastores y coordinadores de grupos pequeños que manejan sus grupos pequeños con Smallgroups.church."
     },
     "FEATURE1": {
-      "TITLE": "Construyó un directorio en línea simple y bonito",
+      "TITLE": "Construye un directorio en línea simple y bonito",
       "P1": "Los líderes registran sus grupos pequeños y los participantes pueden encontrar uno",
       "QUOTE": "",
       "QUOTER": "",
       "SCREENSHOT": "(Captura de pantalla: directorio de grupos pequeños)"
     },
     "FEATURE2": {
-      "TITLE": "En poder a los líderes a que cuiden a los propios participantes de sus grupos",
+      "TITLE": "Empodera a los líderes a que cuiden a los propios participantes de sus grupos",
       "P1": "Los líderes de grupos pequeños pueden administrar la lista de contactos de su grupo y tomar propiedad de su información de contacto sin depender de una persona del staff.",
       "QUOTE": "",
       "QUOTER": "",
@@ -863,7 +863,7 @@
     },
     "FEATURE3": {
       "TITLE": "Usar la data de tus grupos pequeños para mantener al ministerio saludable",
-      "P1": "Reportes fáciles de usar que te ayudarán a medir la participación de las personas a través de tiempo.",
+      "P1": "Reportes fáciles de usar que te ayudarán a medir la participación de las personas a través del tiempo.",
       "QUOTE": "",
       "QUOTER": "",
       "SCREENSHOTA": "(Captura de pantalla: panel de grupos pequeños de una iglesia)",
@@ -921,23 +921,23 @@
     },
     "Q2": {
       "QUEST": "¿Realmente este servicio es gratis?",
-      "ANS1": "¡Sí! Cuando lanzamos Smallgroups.church, sentimos que Dios nos estaba llamando para regalarlo sin costo alguno. ¡Ahora podemos ayudar a que más iglesias locales tengan pequeños grupos exitosos!"
+      "ANS1": "¡Sí! Cuando lanzamos Smallgroups.church, sentimos que Dios nos estaba llamando para regalarlo sin costo alguno. ¡Ahora podemos ayudar a que más iglesias locales tengan grupos pequeños exitosos!"
     },
     "Q3": {
       "QUEST": "¿Hay alguna trampa?",
       "ANS1": "Nope. Podemos ofrecer servicios premium en el futuro, pero serás incluido en el plan \"Gratis por siempre\". Ninguna característica se quitará y se empaquetará en una oferta superior si han usado el sistema previamente.",
-      "ANS2A": "También hemos considerado la incorporación de anuncios seleccionados, cristianos apropiado en el sitio web y / o correos electrónicos. Deberíamos hacerlo, puedes estar seguro de que seremos 100% transparentes, ofreceremos la posibilidad de optar por",
+      "ANS2A": "También hemos considerado la incorporación de anuncios seleccionados cristianos apropiado en el sitio web y / o correos electrónicos. Deberíamos hacerlo, puedes estar seguro de que seremos 100% transparentes, ofreceremos la posibilidad de optar por",
       "ANS2B": "nunca venderemos ni compartiremos ningún dato personalmente identificable."
     },
     "Q4": {
       "QUEST": "¿Puedo crear los grupos o el líder del grupo tiene que hacerlo?",
       "ANS1": "Puedes hacerlo de cualquier manera, aunque te alentamos a fortalecer a tus líderes de grupo para que creen sus propios grupos.",
-      "ANS2": "Si crea el grupo para sus líderes, puede invitar al líder del grupo a ser un co-líder del grupo. Una vez que se inscriban, tendrás la opción de transferir el grupo a ellos.",
+      "ANS2": "Si creas el grupo para tus líderes, puedes invitar al líder del grupo a ser un co-líder del grupo. Una vez que se inscriban, tendrás la opción de transferir el grupo a ellos.",
       "ANS3": "Pero, hemos encontrado que los líderes sentirán más \"pertenencia\" si los líderes del grupo crean sus propios grupos. Ellos sentirán una sensación de propiedad sobre su grupo, ya que a medida que crezcan, estarás contento de que solo tengas que aprobar el grupo, no entrar para verificar todos los detalles para decenas o cientos de grupos."
     },
     "Q5": {
       "QUEST": "¿Cada líder del grupo necesita tener privilegios administrativos?",
-      "ANS1": "No, una vez que un líder del grupo crea su cuenta y su grupo pequeño, tendrán todos los privilegios que necesitan para administrar su propio grupo."
+      "ANS1": "No, una vez que un líder del grupo crea su cuenta y su grupo pequeño tendrán todos los privilegios que necesitan para administrar su propio grupo."
     },
     "Q6": {
       "QUEST": "Tenemos muchos ministerios diferentes, no sólo grupos pequeños. ¿Puedo personalizar Smallgroups.church?",
