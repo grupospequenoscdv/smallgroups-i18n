@@ -761,6 +761,9 @@
       "WHO": "Quién",
       "WHAT": "Qué",
       "AGE": "Cualquier edad",
+      "CHILDCARE-ANY": "Cuidado de niños",
+      "CHILDCARE-NO": "Sin cuidado de niños",
+      "CHILDCARE-YES": "Con cuidado de niños",
       "ZIP": "Código Postal",
       "ZIP-WITHIN": "Incluir Código Postal"
     },
