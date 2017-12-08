@@ -110,8 +110,8 @@
       "TITLE": "Crea una cuenta nueva",
       "REGISTER-BTN": "Registro",
       "TOS-AGREE": "Al registrarte aceptas nuestros",
-      "TOS": "términos y condiciones",
-      "PRIVACY": "políticas de privacidad",
+      "TOS": "Términos y condiciones",
+      "PRIVACY": "Políticas de privacidad",
       "ALREADY-REGISTERED": "¿Ya tienes una cuenta?",
       "EXISTS-ERROR": "Ya existe una cuenta con este correo electrónico. Inicie sesión.",
       "CREATE-ERROR": "Hubo un error al crear tu cuenta. Asegúrese de completar el formulario y de que esté conectado a Internet."
@@ -171,11 +171,11 @@
     "WHAT": "Qué",
     "AGES": "Edad",
     "STATUS": "Estado",
-    "SEARCH-NAME": "buscar por nombre",
-    "SEARCH-LEADER": "buscar por líder",
-    "SEARCH-WHO": "buscar por quién",
-    "SEARCH-WHAT": "buscar por qué",
-    "SEARCH-AGE": "buscar por edad",
+    "SEARCH-NAME": "Buscar por nombre",
+    "SEARCH-LEADER": "Buscar por líder",
+    "SEARCH-WHO": "Buscar por quién",
+    "SEARCH-WHAT": "Buscar por qué",
+    "SEARCH-AGE": "Buscar por edad",
     
     "LEADERS": "Líder(es)",
     "CATEGORY": "Categoría",
@@ -195,14 +195,14 @@
     "APPROVED": "Aprobado",
     "DECLINED": "Rechazado",
     "DISABLED": "Deshabilitado",
-    "INVITED": "Invited",
+    "INVITED": "Invitado",
     "PENDING-MEMBER": "Aprobación de Participante Pendiente",
     "APPROVE-MEMBER": "Participante Aprobado",
     "DECLINE-MEMBER": "Participante Declinado",
     "DISABLE-MEMBER": "Participante Deshabilitado",
     "RESEND-EMAIL": "Reenviar Invitación por Correo",
     "ROSTER-REMOVE-MEMBER-PROMPT": "Estás intentando eliminar a este usuario de tu grupo",
-    "CANCEL-MEMBERSHIP-REQUEST": "Cancel request for membership",
+    "CANCEL-MEMBERSHIP-REQUEST": "Cancelar tu solicitud para unirte este grupo.",
     "CANCEL-MEMBERSHIP-REQUEST-PROMPT": "Estás intentando eliminar tu solicitud para unirte a este grupo.",
     "YES-DELETE": "Si, eliminar",
     "NO-CANCEL": "No, cancelar",
@@ -221,9 +221,9 @@
     "VISIBLE": "¿Mostrar en el directorio?",
     "STATUS-ADMIN-ONLY": "El estado de tu grupo es establecido por el administrador de grupos pequeños de tu iglesia; no puedes modificarlo.",
     "UPDATE": "Actualizar Grupo",
-    "DELETE-GROUP": "Delete Group",
-    "DELETE-GROUP-BTN": "Perform Delete",
-    "DELETE-GROUP-PROMPT": "You're attempting to remove this group permanantly from your church. This action cannot be undone!",
+    "DELETE-GROUP": "Eliminar Groupo",
+    "DELETE-GROUP-BTN": "Realizar Eliminación",
+    "DELETE-GROUP-PROMPT": "Estás intentando eliminar este grupo permanentemente de tu iglesia. Esta acción no se puede deshacer.",
     "MODIFY": "Modificar Detalles",
     "REASSIGN": "Reasignar Propiedad",
     "TRANSFER-GROUP": "Transferir Grupo",
@@ -327,9 +327,9 @@
 
   "MY-GROUPS": {
     "ASSIGN-CHURCH": {
-      "TITLE": "Assign your home church",
-      "P1": "Oops, we need to know which church you call home.",
-      "BTN": "Find My Church"
+      "TITLE": "Asignar tu iglesia local",
+      "P1": "Oops, necesitamos saber a qué iglesia llamas casa.",
+      "BTN": "Buscar Mi Iglesia."
     },
     "DASHBOARD": {
       "TITLE": "Grupos",
@@ -384,7 +384,6 @@
       "FORM-WHAT-SELECT": "(enfoque de tu grupo)",
       "FORM-WHAT-REQD": "¿Cuál es el enfoque de tu grupo?",
       "FORM-AGES-LABEL": "Edad",
-      "FORM-CHILDCARE-LABEL": "¿Brindan cuidado de niños?",
       "FORM-VIEWABLE-LABEL": "Dirección visible por",
       "FORM-VIEWABLE-EVERYONE": "Todos",
       "FORM-VIEWABLE-MEMBERS": "Solo los miembros aprobados del grupo",
@@ -443,10 +442,10 @@
     "LEADERS": {
       "TITLE": "Líderes de Grupo",
       "GROUPS": "Grupos",
-      "SEARCH-LEADER": "buscar por nombre",
-      "SEARCH-EMAIL": "buscar por correo electrónico",
-      "SEARCH-PHONE": "buscar por teléfono",
-      "SEARCH-GROUP": "buscar por nombre del grupo"
+      "SEARCH-LEADER": "Buscar por nombre",
+      "SEARCH-EMAIL": "Buscar por correo electrónico",
+      "SEARCH-PHONE": "Buscar por teléfono",
+      "SEARCH-GROUP": "Buscar por nombre del grupo"
     },
     "MEMBERS": {
       "TITLE": "Participantes del Grupo"
@@ -497,15 +496,15 @@
         "OVERVIEW": {
           "TITLE": "Grupos Pequeños",
           "DESCRIPT": "Obtén información sobre sus grupos con una visión general de métricas de alto nivel; como quién, qué, cuándo y cuántos.",
-          "WHO-TITLE": "Who attends these groups?",
-          "AGES-TITLE": "What are their ages?",
-          "WHAT-TITLE": "What are they doing?",
-          "WHAT-CHART-X": "Number of Groups"          
+          "WHO-TITLE": "Quién asiste a estos grupos?",
+          "AGES-TITLE": "Cuáles son sus edades?",
+          "WHAT-TITLE": "Qué están haciendo?",
+          "WHAT-CHART-X": "Cantidad de Grupos"          
         },
         "PRINT": {
           "TITLE": "Imprimir Grupos",
           "DESCRIPT": "Ver un formato de impresión de sus grupos pequeños activos para su uso sin conexión, como en un directorio o para publicarlo.",
-          "ALL-GROUPS": "All Groups"          
+          "ALL-GROUPS": "Todos Los Grupos"          
         }
       },
       "PROFILE": {
@@ -716,7 +715,7 @@
         "CREATE": {
           "TITLE": "Create a new filter:",
           "NAME": "Name",
-          "BTN": "Create"
+          "BTN": "Crear"
         },
         "SERVER": {
           "UPDATE": {
@@ -739,12 +738,12 @@
         "GROUPS": {
           "TITLE": "Grupos Pequeños",
           "DESCRIPT": "Descarga toda la información de tus grupos pequeños.",
-          "INCLUDES": "Include: Nombre de Sede, Temporada, Nombre, Descripción, Quién, Qué, Días, Tiempo, Edades, Dirección Oculta, Dirección Calle1, Dirección Calle1, Dirección Ciudad, Dirección Estado/Provincia/Región, Dirección Código Postal , Estado, Visible en el Directorio, Nombre del Líder Principal, Correo del Líder Principal, Teléfono del Líder Principal, Fecha de Creación."
+          "INCLUDES": "Incluir: Nombre de Sede, Temporada, Nombre, Descripción, Quién, Qué, Días, Tiempo, Edades, Dirección Oculta, Dirección Calle1, Dirección Calle1, Dirección Ciudad, Dirección Estado/Provincia/Región, Dirección Código Postal , Estado, Visible en el Directorio, Nombre del Líder Principal, Correo del Líder Principal, Teléfono del Líder Principal, Fecha de Creación."
         },
         "LEADERS": {
           "TITLE": "Líderes de grupo",
           "DESCRIPT": "Descargar toda la información actual sobre líderes de grupos.",
-          "INCLUDES": "ncluir: DNI de líder, nombre de líder, correo electrónico de líder, teléfono de líder, información adicional sobre líder en la iglesia."
+          "INCLUDES": "Incluir: DNI de líder, nombre de líder, correo electrónico de líder, teléfono de líder, información adicional sobre líder en la iglesia."
         },
         "MEMBERS": {
           "TITLE": "Participantes del grupo",
@@ -762,9 +761,6 @@
       "WHO": "Quién",
       "WHAT": "Qué",
       "AGE": "Cualquier edad",
-      "CHILDCARE-ANY": "Cuidado de niños",
-      "CHILDCARE-NO": "Sin cuidado de niños",
-      "CHILDCARE-YES": "Con cuidado de niños",
       "ZIP": "Código Postal",
       "ZIP-WITHIN": "Incluir Código Postal"
     },
@@ -785,7 +781,7 @@
       "JOIN-PRIVATE-PHONE": "Privado – Solo el líder del grupo verá tu número telefónico",
       "JOIN-BTN": "Únete a un grupo!",
       "JOIN-SENT": "Tu pedido de unirte a un grupo ha sido enviado",
-      "JOIN-LOGIN-PROMPT": "You need to be logged in to join a group:"      
+      "JOIN-LOGIN-PROMPT": "Es necesario que inicies sesión para unirte a un grupo."     
     },
     "SERVER-ERROR-NO-CHURCH": "No se ha encontrado ninguna iglesia con esta dirección web."
   },
@@ -946,19 +942,19 @@
     "Q7": {
       "QUEST": "¿Apoya varios campus?",
       "ANS1A": "Si, sola usa el formulario",
-      "ANS1B": "registrar iglesia",
-      "ANS1C": "para crear todos los campuses que necesites."
+      "ANS1B": "Registrar iglesia",
+      "ANS1C": "Para crear todos los campuses que necesites."
     },
     "Q8": {
       "QUEST": "¿A donde voy desde aqui?",
       "ANS1A": "Primero,",
-      "ANS1B": "crea tu cuenta",
-      "ANS1C": "si aún no lo ha hecho.",
+      "ANS1B": "Crea tu cuenta",
+      "ANS1C": "Si aún no lo ha hecho.",
       "ANS2A": "entonces",
       "ANS2B": "registra tu iglesia,",
-      "ANS3A": " Y sigue",
-      "ANS3B": "La guía rápida",
-      "ANS3C": "Para comenzar y avanzar."
+      "ANS3A": " y sigue",
+      "ANS3B": "la guía rápida",
+      "ANS3C": "para comenzar y avanzar."
     }
   },
 
@@ -976,7 +972,7 @@
         "INVITATION-ACCEPTED": "Invitación aceptada.",
         "INVITATION-DECLINED": "Invitación rechazada.",
         "SHARED-INFO-UPDATED": "Compartir información actualizada.",
-        "CANCEL-MEMBERSHIP-REQUEST": "Your membership request has been cancelled."        
+        "CANCEL-MEMBERSHIP-REQUEST": "Tu solicitud de unirte ha sido cancelado."       
       },
       "PROFILE": {
         "UPDATED": "Tu perfil ha sido actualizado",
@@ -988,10 +984,10 @@
         "EMAIL-VERIFY-ERROR": "Ha habido un error verificando tu correo electrónico"
       },
       "UPDATE_EMAIL_ADDRESS": {
-        "EXISTS": "This email address is already in use by another user."
+        "EXISTS": "Este correo electrónico ya está en uso por otro usuario."
       },
       "SET_GROUP_MEMBER_LEADERSHIP": {
-        "LAST": "You may not remove your own group leadership unless you add another leader to the group with a valid email address."
+        "LAST": "No puedes eliminarte como líder del grupo al menos que agregues otro líder con un email válido al grupo."
       }
     }
   }
